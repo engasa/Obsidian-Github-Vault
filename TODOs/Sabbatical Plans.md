@@ -1,4 +1,4 @@
-### Students-
+### Students
 - Honours/ds/masters
 	- Test tools you developed  in courses: 
 		- Gamified data structures
