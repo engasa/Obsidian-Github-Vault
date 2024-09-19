@@ -1,18 +1,20 @@
 # Now
-- [x] Update CV and send to Lindee
+- [ ] Papers: 
+	- [ ] Gender Disparity 
+	- [ ] NPSE: send something (TA allocation?)
+	- [ ] Course Planner advanced optimization model
 - [ ] Start-up company - send email to Sandra (?)
 - [ ] ALT-2040 report (deadline: sept 30)
-- [ ] Contact Scott/Ifeoma: Web Dev Course
-- [ ] LC: test new features in COSC 111/121/177
-- [ ] PIA applications for your platforms
 - [ ] Personal
 	- [ ] why BCAA went up by 150?
+# Follow-ups
+- [x] Contact Scott/Ifeoma: Web Dev Course
+- [x] LC: test new features in COSC 111/121/177
+- [ ] PIA applications for your platforms
 # Soon
 - [ ] Papers 
-	- [ ] Gender Disparity
 	- [ ] Liams work 
 		- [ ] also expand
-	- [ ] Course Planner advanced optimization model
 	- [ ] Expand Existing work:
 		- [ ] ChatGPT SWOT: try to expand and submit to [Computers and Education](https://www.scimagojr.com/journalsearch.php?q=17645&tip=sid&clean=0)
 		- [ ] 
