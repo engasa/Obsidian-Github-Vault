@@ -1,5 +1,6 @@
 # Now
-- [ ] Update CV and send to Lindee
+- [x] Update CV and send to Lindee
+- [ ] 
 - [ ] ALT-2040 report (deadline: sept 30)
 - [ ] Contact Scott/Ifeoma: Web Dev Course
 - [ ] LC: test new features in COSC 111/121/177
