@@ -11,17 +11,10 @@
 ***
 ## Apr 2024 - Mar 2025
 * **SoTL Spotlight**: featured in [SoTL spotlight](https://ctl.ok.ubc.ca/scholarship/sotl/)
-* **Undergraduate Computing at UBCO Session** with High School Counselors - July 5, 2024, 11:00-12:00 (2 hours prep (slides, etc.) + 1 hour event). Introduced CS program. **Details** [[Github-Vault/Things I did/EL Details|EL Details]]#[[Github-Vault/Things I did/EL Details|EL Details#]]
-		* (June 11, 2024 email from Lindsay Howe, Communication Manager, Deans office: "FoS, in collaboration with SoE, has been allotted a one hour timeslot to discuss/present on computing programs at UBCO (computer engineering, data science, computer science). As someone who teaches first-year computer science, I was wondering if you would be interested in participating in this event with a colleague from SoE, and possibly a student on July 5 from 11am-12pm. You and your SoE colleague would present an overview of options available to undergraduate students in this area (creation of the Powerpoint will not be your responsibility), and then you would be asked questions from the international counsellors, followed by the opportunity to mingle with them in a more casual environment."
-		* see 
-			* email in June/July 2023 from: Howe, Lindsay <lhowe92@mail.ubc.ca>
-			* folder: Service\Student Recruitment\Undergrad Comp...etc.
-* CTL Back to Teaching Bootcamp! (to present NuTeach and LearnCoding)
-	* 1 hour session Aug 21 from 1 to 2. A lightning-round style presentations where each presenter has <=10 min to demo/talk about a given tool and its contribution to learning leaving room for discussion. The intent is for attendees to learn of some of the innovative tools you are using/developing and we expect there will be follow up conversations, even after the session.
-	* See emails from Abir Cosyn July 22nd
+* **Undergraduate Computing at UBCO Session** with High School Counselors - July 5, 2024, 11:00-12:00 (2 hours prep (slides, etc.) + 1 hour event). Introduced CS program. [[Github-Vault/Things I did/EL Details#^e035f9|Details]]
+* CTL Back to Teaching Bootcamp! (to present NuTeach and LearnCoding). [[Github-Vault/Things I did/EL Details#^9b13a5|Details]]
 * Joined Digital Assessment Working Group (see EL\Digital Assessment Working Group folder)
-* CV Background Segmentation Website - for Moh's workshop (developed by Kyra)
-	* https://backgroundsubtraction.ok.ubc.ca/
+* CV Background Segmentation Website - for Moh's workshop (developed by Kyra) [Website](https://backgroundsubtraction.ok.ubc.ca/)
 * Participated in ALT-Create Day on Sept 2nd - I only created a website to describe learncoding and send them the website and qr-code for the website. 
 * **Awards**
 	- **Provost's Outstanding Instructor Award** [link](https://provost.ok.ubc.ca/awards-funding/teaching-awards/outstanding-instructor-award/)- Apr 23 2023 
@@ -33,18 +26,19 @@
 
 * COSC 111 online exams in lab for first time - positive feedback overall. need to figure out a way to keep doing this.
 
-* LearnCoding: Meeting with Engineering (Thomas + Dean) - they want to switch to Python for first year, then their Design Studio Course will use C++. Students now need to be able to switch from Python to C++ and to Java. --> they want to use LC for helping students. Dean Riche 
+* LearnCoding: 
+	* Meeting with Engineering (Thomas + Dean) - they want to switch to Python for first year, then their Design Studio Course will use C++. Students now need to be able to switch from Python to C++ and to Java. --> they want to use LC for helping students. Dean Riche 
+	* LearnCoding is used in (find out number of students)
+		* 2024 W1 in COSC 111,121 
+		* 2024 W2 in COSC 121, APSC 177
  
 * Students
-	* MSc student
+	* MSc student: Mahmoud ...
 	* x DS + y Honours + z Volunteers
 * Funding:
 	* Mitacs Accelerate (for Mahomud) 
 
-* New projects: 
-	* Built webiste (by Kyra): [https://backgroundsubtraction.ok.ubc.ca/](https://backgroundsubtraction.ok.ubc.ca/)
-
-* See [[UBC_orig/Things I did/EL#Recurring]]
+* See [[UBC_orig/Things I did/EL#Recurring|Recuring Items]]
 
 ***
 ## Apr 2023 - Mar 2024
