@@ -11,7 +11,7 @@
 ***
 ## Apr 2024 - Mar 2025
 * **SoTL Spotlight**: featured in [SoTL spotlight](https://ctl.ok.ubc.ca/scholarship/sotl/)
-* **Undergraduate Computing at UBCO Session** with High School Counselors - July 5, 2024, 11:00-12:00 (2 hours prep (slides, etc.) + 1 hour event). Introduced CS program. **Details**: [[Github-Vault/Things I did/EL Details|EL Details^]]
+* **Undergraduate Computing at UBCO Session** with High School Counselors - July 5, 2024, 11:00-12:00 (2 hours prep (slides, etc.) + 1 hour event). Introduced CS program. **Details**: [EL Details](Github-Vault/Things%20I%20did/EL%20Details.md)[EL Details](Github-Vault/Things%20I%20did/EL%20Details.md)#
 		* (June 11, 2024 email from Lindsay Howe, Communication Manager, Deans office: "FoS, in collaboration with SoE, has been allotted a one hour timeslot to discuss/present on computing programs at UBCO (computer engineering, data science, computer science). As someone who teaches first-year computer science, I was wondering if you would be interested in participating in this event with a colleague from SoE, and possibly a student on July 5 from 11am-12pm. You and your SoE colleague would present an overview of options available to undergraduate students in this area (creation of the Powerpoint will not be your responsibility), and then you would be asked questions from the international counsellors, followed by the opportunity to mingle with them in a more casual environment."
 		* see 
 			* email in June/July 2023 from: Howe, Lindsay <lhowe92@mail.ubc.ca>
