@@ -1,4 +1,4 @@
-**See::**
+**See::::**
 - Collective agreement (Sect. 4.04) and SAC (Sect. ??) on what EL involves.  *e.g. curriculum renewal, course design, new assessment models, ..*
 - Bowen Meeting 2.txt
 **Notes**: 
