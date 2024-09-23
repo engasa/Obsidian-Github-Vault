@@ -1,4 +1,7 @@
 # Now
+- [ ] Workday API
+	- [ ] send email to Jack about saving back course schedule
+	- [ ] fill out API access template and send to Jack
 - [ ] Papers: 
 	- [ ] Gender Disparity 
 	- [ ] NPSE: send something (TA allocation?)
