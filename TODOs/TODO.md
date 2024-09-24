@@ -1,7 +1,7 @@
 # Now
 - [ ] Qatar Institute reviewer, Fellowship for something (Mohamed) 
 - [ ] Papers: 
-	- [ ] Online Conference: [NPSE](https://conference.pixel-online.net/NPSE/index.php)(Oct 9) [INTED2025](https://iated.org/inted/)
+	- [ ] Online Conference: [NPSE](https://conference.pixel-online.net/NPSE/index.php)(Oct 9, $460) [INTED2025](https://iated.org/inted/)(Nov 21, $540 for 2 papers)
 		- [ ] e.g. TA allocator, 
 	- [ ] Gender Disparity 
 	- [ ] Course Planner advanced optimization model
