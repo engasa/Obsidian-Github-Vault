@@ -1,7 +1,9 @@
 # Now
+- [ ] Qatar Institute reviewer, Fellowship for something (mohamed) 
 - [ ] Papers: 
+	- [ ] Online Conference: [NPSE](https://conference.pixel-online.net/NPSE/index.php)(Oct 9) [INTED2025](https://iated.org/inted/)
+		- [ ] e.g. TA allocator, 
 	- [ ] Gender Disparity 
-	- [ ] NPSE: send something (TA allocation?)
 	- [ ] Course Planner advanced optimization model
 - [ ] ALT-2040 report (deadline: sept 30)
 - [ ] Personal
