@@ -19,5 +19,5 @@
 	- [ ] Extend Optimization model
 	- [ ] Convert Java part -> Web
 - [ ] EDI
-	- [ ] Gender Impalance (Abby)
+	- [ ] Gender Imbalance (Abby)
 - [ ] Website for Computer Vision workshop
