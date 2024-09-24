@@ -1,5 +1,5 @@
 # Now
-- [ ] Qatar Institute reviewer, Fellowship for something (mohamed) 
+- [ ] Qatar Institute reviewer, Fellowship for something (Mohamed) 
 - [ ] Papers: 
 	- [ ] Online Conference: [NPSE](https://conference.pixel-online.net/NPSE/index.php)(Oct 9) [INTED2025](https://iated.org/inted/)
 		- [ ] e.g. TA allocator, 
