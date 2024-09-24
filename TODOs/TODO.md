@@ -3,11 +3,12 @@
 	- [ ] Gender Disparity 
 	- [ ] NPSE: send something (TA allocation?)
 	- [ ] Course Planner advanced optimization model
-- [ ] Start-up company - send email to Sandra (?)
 - [ ] ALT-2040 report (deadline: sept 30)
 - [ ] Personal
 	- [ ] why BCAA went up by 150?
+- [ ] Programming Course (online)
 # Follow-ups
+- [ ] Start-up company - email to Sandra (?)
 - [x] Contact Scott/Ifeoma: Web Dev Course
 - [x] LC: test new features in COSC 111/121/177
 - [ ] PIA applications for your platforms
