@@ -6,7 +6,10 @@
 - [ ] CoursePlanner Optimizers:
 	- [ ] for long-term plans
 	- [ ] for Scheduler
-- [ ] DataPlayground: Study of Effectiveness
+- [ ] System developed, but no study: 
+	- [ ] DataPlayground: Study of Effectiveness
+	- [ ] Akshat: Learning Data structures by example
+	- [ ] Larry: Spaced Repetition 
 - [ ] Artificial Intelligence
 	- [ ] Machine Learning (Satanshu) for Personalized Quizzes
 	- [ ] GenAI: 
@@ -20,4 +23,8 @@
 	- [ ] Convert Java part -> Web
 - [ ] EDI
 	- [ ] Gender Imbalance (Abby)
-- [ ] Website for Computer Vision workshop
+### Older or not important
+- [ ] Norbert's work: How to catch sexual predators using statistical machine learning and computational linguistics
+- [ ] Computer Vision:
+	- [ ] Note Taking (Reece)
+	- [ ] Website for Computer Vision workshop
