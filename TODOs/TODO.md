@@ -1,12 +1,14 @@
 # Now
-- [ ] Qatar Institute reviewer, Fellowship for something (Mohamed) 
-- [ ] which Workday API to use
+- [ ] Ethics (Mostafa)
+- [ ] CP DAR
+- [ ] Qatar Institute reviewer + Fellowship for something (Mohamed) 
+- [ ] ALT-2040 report (deadline: sept 30)
+- [ ] which Workday API to use for saving schedules
 - [ ] Papers: 
 	- [ ] Online Conference: [NPSE](https://conference.pixel-online.net/NPSE/index.php)(Oct 9, $460) [INTED2025](https://iated.org/inted/)(Nov 21, $540 for 2 papers)
 		- [ ] e.g. TA allocator, 
 	- [ ] Gender Disparity 
 	- [ ] Course Planner advanced optimization model
-- [ ] ALT-2040 report (deadline: sept 30)
 - [ ] Personal
 	- [ ] why BCAA went up by 150?
 - [ ] Programming Course (online)
