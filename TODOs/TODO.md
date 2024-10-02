@@ -1,6 +1,4 @@
 # Now
-- [ ] Ethics (Mostafa)
-- [ ] CP DAR
 - [ ] Qatar Institute reviewer + Fellowship for something (Mohamed) 
 - [ ] ALT-2040 report (deadline: sept 30)
 - [ ] which Workday API to use for saving schedules
@@ -17,6 +15,8 @@
 - [x] Contact Scott/Ifeoma: Web Dev Course
 - [x] LC: test new features in COSC 111/121/177
 - [ ] PIA applications for your platforms
+- [ ] Ethics (Mostafa)
+- [ ] CP DAR
 # Soon
 - [ ] Papers 
 	- [ ] Liams work 
