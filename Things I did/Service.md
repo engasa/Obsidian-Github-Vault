@@ -8,8 +8,8 @@
 * Mentoring:
 	- new advisors (4) + articulation (1)
 - See:
-	[[Service#Recurring|Recuring Service]]
-	[[Service#Samples from others|Samples from Others]]
+	[[Github-Vault/Things I did/Service#Recurring|Recuring Service]]
+	[[Github-Vault/Things I did/Service#Samples from others|Samples from Others]]
 
 ***
 ## Apr 2023 - Mar 2024

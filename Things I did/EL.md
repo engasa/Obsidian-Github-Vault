@@ -38,7 +38,7 @@
 * Funding:
 	* Mitacs Accelerate (for Mahomud) 
 
-* See [[UBC_orig/Things I did/EL#Recurring|Recuring Items]]
+* See [[old/UBC_orig/Things I did/EL#Recurring|Recuring Items]]
 
 ***
 ## Apr 2023 - Mar 2024
