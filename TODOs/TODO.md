@@ -1,5 +1,6 @@
 # Now
 - [ ] Qatar Institute reviewer + Fellowship for something (Mohamed) 
+- [ ] بص على سي في بومة و ظبط سيفيهك (مثلا اكتب عدد الطلبة اللى استخدموا موقعك)
 - [ ] ALT-2040 report (deadline: sept 30)
 - [ ] which Workday API to use for saving schedules
 - [ ] Papers: 
