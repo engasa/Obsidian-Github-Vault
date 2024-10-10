@@ -1,4 +1,5 @@
 # Now
+- [ ] submit ethics application
 - [ ] Qatar Institute reviewer + Fellowship for something (Mohamed) 
 - [ ] compare ci proposal to nuteach
 - [ ] order Lula stuff
