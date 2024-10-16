@@ -1,5 +1,7 @@
 # Now
 - [x] submit ethics application
+- [ ] Mohamed Ashri meeting
+- [ ] PIA email from James or something sign to Ashri
 - [ ] Qatar Institute reviewer + Fellowship for something (Mohamed) 
 - [x] compare ci proposal to nuteach
 - [x] order Lula stuff
