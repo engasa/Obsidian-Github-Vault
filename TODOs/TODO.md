@@ -1,6 +1,11 @@
 # Now
 - [ ] $1200 Hire Anand
+- [x] submit ethics application
+- [ ] Mohamed Ashri meeting
+- [ ] PIA email from James or something sign to Ashri
 - [ ] Qatar Institute reviewer + Fellowship for something (Mohamed) 
+- [x] compare ci proposal to nuteach
+- [x] order Lula stuff
 - [ ] بص على سي في بومة و ظبط سيفيهك (مثلا اكتب عدد الطلبة اللى استخدموا موقعك)
 - [ ] ALT-2040 report (deadline: sept 30)
 - [ ] which Workday API to use for saving schedules
@@ -17,7 +22,6 @@
 - [x] Contact Scott/Ifeoma: Web Dev Course
 - [x] LC: test new features in COSC 111/121/177
 - [ ] PIA applications for your platforms
-- [ ] Ethics (Mostafa)
 - [ ] CP DAR
 # Soon
 - [ ] Papers 
