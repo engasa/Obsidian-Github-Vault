@@ -1,5 +1,5 @@
 # Now
-- [ ] $1200 Hire Anand 
+- [ ] $1200 Hire Anand  
 - [x] submit ethics application
 - [x] Mohamed Ashri meeting
 
