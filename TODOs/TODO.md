@@ -2,7 +2,6 @@
 - [ ] $1200 Hire Anand  
 - [x] submit ethics application
 - [x] Mohamed Ashri meeting
-
 - [ ] Qatar Institute reviewer + Fellowship for something (Mohamed) 
 - [x] compare ci proposal to nuteach
 - [ ] بص على سي في بومة و ظبط سيفيهك (مثلا اكتب عدد الطلبة اللى استخدموا موقعك)
