@@ -20,3 +20,9 @@
 ### Papers
 - Write more papers based on existing work (e.g. run another TA allocation case study, )
 - Papers to Canadian Conf of Elect and Comp Eng (Vancouver)
+
+### Sabbatical Done!
+* supervise MSc
+* Java Ar Course
+* Papers (5 to 10)?
+* Projects - deployment + start up + ??
