@@ -20,8 +20,6 @@
 - [ ] PIA email from James or something sign to Ashri
 - [x] Contact Scott/Ifeoma: Web Dev Course
 - [x] LC: test new features in COSC 111/121/177
-- [ ] PIA applications for your platforms
-- [ ] CP DAR
 # Soon
 - [ ] Papers 
 	- [ ] Liams work 
