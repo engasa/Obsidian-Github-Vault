@@ -1,0 +1,4 @@
+Thank you for including me in your discussions about the future of NuTeach. I have to admit that I was a bit surprised to learn about these separate meetings without me, especially since we've already been addressing many important aspects during our Friday sessions. I think we also discussed our plans for NuTeach (e.g. depolyment in Term2, the research study, our plans for pitching it to other universities, etc). However, I understand that we may need extra meetings  to privately discuss more items related to the startup (which we have already done multiple times before).
+
+Havin that said, I believe it’s important for us to work together closely, especially as we prepare for establishing our start-up and involving the university. I would love to join these discussions, as it’s essential for us to align our visions and ensure that all our insights contribute to NuTeach's success.
+
