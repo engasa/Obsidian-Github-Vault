@@ -1,5 +1,5 @@
 # Now
-- [ ] $1200 Hire Anand  
+- [ ] $1200 Hire Anand -
 - [ ] Qatar Institute reviewer + Fellowship for something (Mohamed) 
 - [ ] بص على سي في بومة و ظبط سيفيهك (مثلا اكتب عدد الطلبة اللى استخدموا موقعك)
 - [ ] ALT-2040 report (deadline: sept 30)
