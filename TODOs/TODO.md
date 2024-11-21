@@ -1,17 +1,21 @@
 # Now
-- [ ] $1200 Hire Anand
+- [x] $1200 Hire Anand
 - [ ] Qatar Institute reviewer + Fellowship for something (Mohamed) 
 - [ ] بص على سي في بومة و ظبط سيفيهك (مثلا اكتب عدد الطلبة اللى استخدموا موقعك)
 - [ ] ALT-2040 report (deadline: sept 30)
 - [ ] which Workday API to use for saving schedules
 - [ ] Papers: 
+	- [ ] plan papers
 	- [ ] Online Conference: [NPSE](https://conference.pixel-online.net/NPSE/index.php)(Oct 9, $460) [INTED2025](https://iated.org/inted/)(Nov 21, $540 for 2 papers)
 		- [ ] e.g. TA allocator, 
 	- [ ] Gender Disparity 
+	- [ ] Mohamed conference in UAE
+	- [ ] Mohamed conference in Vancouver
 	- [ ] Course Planner advanced optimization model
 - [ ] Personal
 	- [ ] why BCAA went up by 150?
-- [ ] Programming Course (online)
+- [ ] Programming Course (online) 1.5 months
+- [ ] web dev course
 # Follow-ups
 - [ ] Start-up company - email to Sandra (?)
 - [ ] PIA email from James or something sign to Ashri
