@@ -1,9 +1,11 @@
 # Now
 - [x] $1200 Hire Anand
-- [ ] apply grants
+- [ ] find / apply grants
+- [ ] recycle papers (conferences, journals) _ ask AI for ideas
+- [ ] find awards
 - [ ] Qatar Institute reviewer + Fellowship for something (Mohamed) 
 - [ ] بص على سي في بومة و ظبط سيفيهك (مثلا اكتب عدد الطلبة اللى استخدموا موقعك)
-- [ ] ALT-2040 report (deadline: sept 30)
+- [ ] ALT-2040 extend 
 - [ ] which Workday API to use for saving schedules
 - [ ] Papers: 
 	- [ ] plan papers
@@ -14,9 +16,11 @@
 	- [ ] Mohamed conference in Vancouver
 	- [ ] Course Planner advanced optimization model
 - [ ] Personal
-	- [ ] why BCAA went up by 150?
-- [ ] Programming Course (online) 1.5 months
-- [ ] web dev course
+	- [x] why BCAA went up by 150?
+	- [ ] buy car
+- [ ] course dev
+	- [ ] Programming Course (online) 1.5 months
+	- [ ] web dev course
 # Follow-ups
 - [ ] Start-up company - email to Sandra (?)
 - [ ] PIA email from James or something sign to Ashri
