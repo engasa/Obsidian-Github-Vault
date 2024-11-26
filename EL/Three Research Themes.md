@@ -12,7 +12,7 @@
 - #### IDEAs
 	- **Learning Support**
 		- ***~ AI as Collaborative Learning Tool*** (team coordination, conflict resolution, intelligent scaffolding (breaking complex tasks into smaller steps) )
-		- **Real-Time Teaching Support**: Study how AI can assist instructors during lectures by dynamically generating visual aids, examples, or explanations based on student questions.
+		- **Real-Time Teaching Support**: Study how AI can assist instructors during lectures by dynamically generating visual aids, examples, or explanations based on student questions. 
 		- Personalized learning (dynamically adjust curriculum based on students real-time performance and learning style + personalized feedback) 
 	- **Assessment and Feedback:**
 		- **~ Explore the use of GenAI to 1) auto-grade assignments+ feedback, 2) identify *common misconceptions*.**
