@@ -3,7 +3,7 @@
 	- GenAI as tutor
 	- GenAI as advisor (courses, other aspects + RAG models)
 - **Enhanced Assessment and Feedback**
-	- GenAI as an exam grader (essays, code) <abbr title="this is how it is done">tooltip</abbr>
+	- GenAI as an exam grader (essays, code)
  - **Studies:** 
 	- SWOT analysis + Academic integrity 
 - Machine-learning for adaptive learning environments
