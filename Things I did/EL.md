@@ -31,10 +31,15 @@
 	* LearnCoding is used in (find out number of students)
 		* 2024 W1 in COSC 111,121 
 		* 2024 W2 in COSC 121, APSC 177
- 
+ * NuTeach
+	 * spaced repetition (flashcards)
+	 * gamification (bonus grades, shifting assignment algorithm)
+	 * export grades (to canvas?)
+	 * research study (effectiveness)
 * Students
 	* MSc student: Mahmoud ...
 	* x DS + y Honours + z Volunteers
+		* talk about their projects  
 * Funding:
 	* Mitacs Accelerate (for Mahomud) 
 
