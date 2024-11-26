@@ -1,20 +1,19 @@
 # Now
-- [x] $1200 Hire Anand
-- [ ] find / apply grants
-- [ ] recycle papers (conferences, journals) _ ask AI for ideas
-- [ ] find awards
-- [ ] Qatar Institute reviewer + Fellowship for something (Mohamed) 
-- [ ] بص على سي في بومة و ظبط سيفيهك (مثلا اكتب عدد الطلبة اللى استخدموا موقعك)
-- [ ] ALT-2040 extend 
-- [ ] which Workday API to use for saving schedules
-- [ ] Papers: 
-	- [ ] plan papers
+- [ ] ***Visioning:*** what ideas you want to accomplish in your research (the three themes)
+- [ ] ***Grants***: find / apply (use ideas from Visioning)
+- [ ] ***Awards and recognition***: find /apply
+- [ ] ***Papers:*** 
+	- [ ] recycle papers (conferences, journals) _ ask AI for ideas on recycling
 	- [ ] Online Conference: [NPSE](https://conference.pixel-online.net/NPSE/index.php)(Oct 9, $460) [INTED2025](https://iated.org/inted/)(Nov 21, $540 for 2 papers)
 		- [ ] e.g. TA allocator, 
 	- [ ] Gender Disparity 
-	- [ ] Mohamed conference in UAE
-	- [ ] Mohamed conference in Vancouver
+	- [ ] Paper in Egypt
+	- [ ] Mohamed conference in UAE + Vancouver
 	- [ ] Course Planner advanced optimization model
+- [ ] Qatar Institute reviewer + Fellowship for something (Mohamed) 
+- [ ] بص على سي في بومة و ظبط سيفيهك (مثلا اكتب عدد الطلبة اللى استخدموا موقعك)
+- [x] ALT-2040 extend 
+- [ ] which Workday API to use for saving schedules
 - [ ] Personal
 	- [x] why BCAA went up by 150?
 	- [ ] buy car
