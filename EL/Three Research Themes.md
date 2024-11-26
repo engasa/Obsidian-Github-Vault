@@ -39,6 +39,6 @@
 - NuTeach (gamification techniques, Spaced Repetition, etc)
 - ULearn (ML for personalized quizzes)
 - DataPlayground (gamification for learning data structures)
-### 3.  Innovative Teaching and Evaluation Methods
-* Mixed-ability classes
+### 3.  Innovative, Inclusive Teaching 
+* Mixed-ability classes ()
 * 
