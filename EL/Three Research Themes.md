@@ -3,13 +3,13 @@
 	- GenAI as tutor
 	- GenAI as advisor (courses, other aspects + RAG models)
 - **Enhanced Assessment and Feedback**
-	- GenAI as an exam grader (essays, code)
+	- GenAI as an exam grader (essays, code) <abbr title="this is how it is done">tooltip</abbr>
  - **Studies:** 
 	- SWOT analysis + Academic integrity 
 - Machine-learning for adaptive learning environments
 - Computer Vision to detect and boost student engagement, and provide targeted support
 
-- #### TODOs + Ideas
+- #### IDEAs
 	- **Learning Support**
 		- ***~ AI as Collaborative Learning Tool*** (team coordination, conflict resolution, intelligent scaffolding (breaking complex tasks into smaller steps) )
 		- **Real-Time Teaching Support**: Study how AI can assist instructors during lectures by dynamically generating visual aids, examples, or explanations based on student questions.
@@ -32,11 +32,10 @@
 		 - **AI for Language and Cultural Diversity:** Explore how AI can be used to support students from diverse linguistic and cultural backgrounds.
 		 - **Universal Design for Learning (UDL)**: Study how AI can create more inclusive learning materials, such as adaptive text, captions, and code explanations for students with disabilities.
 ### 2. Technology-Enhanced Educational Platforms
-- Optimization: 
-	- course planning
-	- TA allocation
 - LearnCoding (parallel courseware, code visualizer, language comparison, etc)
 - NuTeach (gamification techniques, Spaced Repetition, etc)
+- Course Planner (Optimization, Scheduling, Advising, etc)
+- TA allocation (optimization)
 - ULearn (ML for personalized quizzes)
 - DataPlayground (gamification for learning data structures)
 ### 3.  Innovative, Inclusive Teaching in CS Education
