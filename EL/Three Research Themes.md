@@ -39,7 +39,7 @@
 - NuTeach (gamification techniques, Spaced Repetition, etc)
 - ULearn (ML for personalized quizzes)
 - DataPlayground (gamification for learning data structures)
-### 3.  Innovative, Inclusive Pedagogy and Evaluation in Computer Science Education
+### 3.  Innovative, Inclusive Teaching in CS Education
 (used to be named: Innovative Teaching and Evaluation Methods)
 * Mixed-ability classes 
 * Study on Women in CS 
