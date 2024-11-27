@@ -1,5 +1,7 @@
 ## <font color="#2DC26B">UBC O</font>
-* #### ALT-2040 --> NuTeach Material? AI-resistant assignments? AI and EDI?
+* #### ALT-2040 
+	* NuTeach Material? AI-resistant assignments? AI and EDI?
+	* Others: COSC 304 two streams (Ramon), Open-access math textbook (Paul), Problem Bank in physics and data-science (Firas), 
 * #### Curricular and Teaching Innovation  
 * #### SoTL (Seed funds, Dissemination fund)
 * #### Work-study
