@@ -1,7 +1,7 @@
 ## <font color="#2DC26B">UBC O</font>
 * #### ALT
 * #### Curricular and Teaching Innovation  
-* #### SoTL (see funds, dissemination fund)
+* #### SoTL (Seed funds, Dissemination fund)
 * #### Work-study
 * #### CMPS
 * #### LTHub
