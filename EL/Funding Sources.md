@@ -2,8 +2,8 @@
 #### CMPS
 
 #### ALT
-#### ISoTL
-
+#### SoTL (see funds, dissemination fund)
+#### Workstudy
 #### LTHub
 * zefta got 8600 to support team analytics 
 
