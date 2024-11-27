@@ -6,7 +6,8 @@
 * #### CMPS
 * #### LTHub
 	* zefta got 8600 to support team analytics 
-
+* #### Travel Grants
+	* [Grade Students](https://science.ok.ubc.ca/awards/travel-grants/) (500 MSc, 1000 Phd)
 ## <font color="#2DC26B">Outside UBCO</font>
 * #### Mitacs (Accelerate, BSI)
 * #### NSERC ??
