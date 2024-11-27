@@ -1,5 +1,5 @@
 ## <font color="#2DC26B">UBC O</font>
-* #### ALT
+* #### ALT-2040 --> NuTeach Material? AI-resistant assignments? AI and EDI?
 * #### Curricular and Teaching Innovation  
 * #### SoTL (Seed funds, Dissemination fund)
 * #### Work-study
