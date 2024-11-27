@@ -1,8 +1,10 @@
-## <font color="#2DC26B">UBCO</font>
-#### 1. CMPS
+## <font color="#2DC26B">UBC O</font>
+#### CMPS
 
-#### 2. ALT
-#### 3. LTHub
+#### ALT
+#### ISoTL
+
+#### LTHub
 * zefta got 8600 to support team analytics 
 
 ## <font color="#2DC26B">Outside UBCO</font>
