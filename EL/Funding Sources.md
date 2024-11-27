@@ -1,19 +1,16 @@
 ## <font color="#2DC26B">UBC O</font>
-#### CMPS
-
-#### ALT
-#### Curricular and Teaching Innovation  
-
-#### SoTL (see funds, dissemination fund)
-#### Workstudy
-#### LTHub
-* zefta got 8600 to support team analytics 
+* #### ALT
+* #### Curricular and Teaching Innovation  
+* #### SoTL (see funds, dissemination fund)
+* #### Work-study
+* #### CMPS
+* #### LTHub
+	* zefta got 8600 to support team analytics 
 
 ## <font color="#2DC26B">Outside UBCO</font>
-#### 1. Mitacs (Accelerate, BSI)
-#### 2. NSERC ??
-
-#### 2. [SSHRC](https://www.sshrc-crsh.gc.ca/home-accueil-eng.aspx)
+* #### Mitacs (Accelerate, BSI)
+* #### NSERC ??
+* #### [SSHRC](https://www.sshrc-crsh.gc.ca/home-accueil-eng.aspx)
 #### Research Eligibility
 1. postsecondary in **social sciences and humanities**.
 2. outcome must primarily be to add to our understanding of individuals/groups/societies -- what we think, how we live, and how we interact with each other and the world around us
