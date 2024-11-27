@@ -1,4 +1,5 @@
-### AI-Facilitated Group Work
+This is similar to what Bowen is doing - try to avoid!
+### <font color="#2DC26B">AI-Facilitated Group Work</font>
 
 **Intelligent Scaffolding:**
 
@@ -18,7 +19,7 @@
 - **Meeting Scheduling:** AI can optimize meeting schedules based on group members' availability and deadlines.
 - **Progress Tracking:** AI can track the group's progress towards project milestones, identifying potential bottlenecks and suggesting solutions.
 
-### Peer Review with AI
+### <font color="#2DC26B">Peer Review with AI</font>
 
 **Automated Peer Review Feedback:**
 
