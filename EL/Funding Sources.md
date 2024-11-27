@@ -2,6 +2,8 @@
 #### CMPS
 
 #### ALT
+#### Curricular and Teaching Innovation  
+
 #### SoTL (see funds, dissemination fund)
 #### Workstudy
 #### LTHub
