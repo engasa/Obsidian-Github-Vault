@@ -11,7 +11,7 @@
 
 - #### IDEAs
 	- **Learning Support**
-		- <font color="#2DC26B"> AI as Collaborative Learning Tool</font> (team coordination, conflict resolution, intelligent scaffolding (breaking complex tasks into smaller steps) )
+		- <font color="#2DC26B"> AI as Collaborative Learning Tool</font> (a) Group Work: team coordination, conflict resolution, intelligent scaffolding, i.e. breaking complex tasks into smaller steps, (b) Facilitate Peer review
 		- **Real-Time Teaching Support**: Study how AI can assist instructors during lectures by dynamically generating visual aids, examples, or explanations based on student questions. 
 		- Personalized learning (dynamically adjust curriculum based on students real-time performance and learning style + personalized feedback) 
 	- **Assessment and Feedback:**
@@ -19,10 +19,10 @@
 		- **AI-Resistant Assessment Design**: Explore novel assessment methods that reduce the risk of AI-generated plagiarism while encouraging authentic student work
 		- **Rubric Generation and Standardization**: Research how Generative AI can standardize and streamline rubric creation for more consistent and transparent grading practices.
 	- **Ethics, Social Implications, and Responsible AI**
-		- **~ <font color="#2DC26B">AI Literacy:</font>** Investigate how to responsibly involve AI in teaching and learning + critically evaluate AI-generated content 
+		- **~ <font color="#2DC26B">AI Literacy:</font>** Investigate how to responsibly <font color="#2DC26B">involve</font> AI in teaching and learning + critically evaluate AI-generated content 
 		- **Ethical Implications of AI Tutors**: Explore the boundaries of replacing human tutors with AI, focusing on the psychological and educational impacts on students.
-		- **Student Perceptions of AI in Learning**: longitudinal studies to understand student trust, acceptance, and ethical concerns surrounding the use of AI in their education.
-		- **AI and Future of Work:** Explore how AI will impact the future of work in the CS field and how to prepare students for these changes.
+		- **Student/Teacher Perceptions of AI in Learning**: longitudinal studies to understand student trust, acceptance, and ethical concerns surrounding the use of AI in their education.
+		- **Future of Work:** Explore how AI will impact the future of work in the CS field and how to prepare students for these changes.
 	 - **Curriculum Development**
 		 - ***~ <font color="#2DC26B">Code Generation for Learning Examples***</font>: generating coding examples for specific topics + measure its effectiveness in improving conceptual understanding.
 		 - **AI-Assisted Curriculum Design**: Examine how AI can assist educators in creating course content (syllabi, lesson plans, module content) that align with Bloom's taxonomy or other frameworks.
