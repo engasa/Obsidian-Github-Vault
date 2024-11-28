@@ -14,7 +14,7 @@
 	- [ ] Machine Learning (Satanshu) for Personalized Quizzes
 	- [ ] GenAI: 
 		- [ ] Swot Analysis 
-		- [ ] TA as Tutor (can be extended - study AI vs TAs)
+		- [ ] AI as Tutor (can be extended - study AI vs TAs)
 		- [ ] *marking Essays*
 		- [ ] *marking Coding questions* (partial marks)
 	- [ ] Spaced Repetition (for NuTeach)

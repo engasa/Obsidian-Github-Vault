@@ -16,7 +16,7 @@
 		- Personalized learning (dynamically adjust curriculum based on students real-time performance and learning style + personalized feedback) 
 	- **Assessment and Feedback:**
 		- **~ Explore the use of GenAI to 1) auto-grade assignments+ feedback, 2) <font color="#2DC26B">identify *common misconceptions</font>*.**
-		- **AI-Resistant Assessment Design**: Explore novel assessment methods that reduce the risk of AI-generated plagiarism while encouraging authentic student work
+		- ~<font color="#00b050">AI-Resistant Assessment Design</font>: Explore novel assessment methods that reduce the risk of AI-generated plagiarism while encouraging authentic student work
 		- **Rubric Generation and Standardization**: Research how Generative AI can standardize and streamline rubric creation for more consistent and transparent grading practices.
 	- **Ethics, Social Implications, and Responsible AI**
 		- **~ <font color="#2DC26B">AI Literacy:</font>** Investigate how to responsibly <font color="#2DC26B">involve</font> AI in teaching and learning + critically evaluate AI-generated content 
