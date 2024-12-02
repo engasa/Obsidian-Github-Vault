@@ -1,9 +1,15 @@
 # Now
 - [ ] ***Visioning:*** what ideas you want to accomplish in your research (the three themes)
 - [ ] ***Grants***: find / apply (use ideas from Visioning)
-	- [ ] ALT-2040: AI in education
+	- [ ] ALT-2040: AI in education (AI assignments? NuTeach?)
+	- [ ] Search Mitacs for projects
 - [ ] ***Awards and recognition***: find /apply
-	- [ ] CS-CAN Sylvie? 
+	- [ ] CS-CAN Sylvie - <font color="#00b050">Feb 1</font>
+	- [ ] D2L? (self-apply, <font color="#00b050">Feb 15</font>)
+	- [ ] OER Excellence and Impact Awards 
+		- [ ] LearnCodign but need proof of impact
+		- [ ] from بومة: 
+			- [ ] my educational material and open-source learning technologies gained recognition in the OER community. Much of my projects involve undergraduate student researchers, piloting technologies in the classroom to study the impact on student learning, co-authored student publications, dissemination of my work at conferences, adoption of my work within and beyond UBC, and requests to use my software beyond UBC.
 - [ ] ***Papers:*** 
 	- [ ] Liam's paper
 	- [ ] recycle papers (conferences, journals) _ ask AI for ideas on recycling
