@@ -1,23 +1,23 @@
 ### 1. Generative AI in CS Education
  - **Learning Support**
-	- GenAI as tutor
-	- GenAI as advisor (courses, other aspects + RAG models)
+	- Tutor AI
+	- Advisor AI (courses, other aspects + RAG models)
 - **Enhanced Assessment and Feedback**
-	- GenAI as an exam grader (essays, code)
+	- Exam grader (essays, code)
  - **Studies:** 
 	- SWOT analysis + Academic integrity 
 - Machine-learning for adaptive learning environments
 - Computer Vision to detect and boost student engagement, and provide targeted support
 
-- #### IDEAs
-	- **Learning Support**
-		- <font color="#2DC26B"> AI as Collaborative Learning Tool</font> (a) Group Work: team coordination, conflict resolution, intelligent scaffolding, i.e. breaking complex tasks into smaller steps, (b) Facilitate Peer review
-		- **Real-Time Teaching Support**: Study how AI can assist instructors during lectures by dynamically generating visual aids, examples, or explanations based on student questions. 
-		- Personalized learning (dynamically adjust curriculum based on students real-time performance and learning style + personalized feedback) 
+- #### IDEAs (How AI can be integrated in teaching/learning)
 	- **Assessment and Feedback:**
 		- **~ Explore the use of GenAI to 1) auto-grade assignments+ feedback, 2) <font color="#2DC26B">identify *common misconceptions</font>*.**
 		- ~<font color="#00b050">AI-Resistant Assessment Design</font>: Explore novel assessment methods that reduce the risk of AI-generated plagiarism while encouraging authentic student work
 		- **Rubric Generation and Standardization**: Research how Generative AI can standardize and streamline rubric creation for more consistent and transparent grading practices.
+	- **Learning Support**
+		- <font color="#2DC26B"> AI as Collaborative Learning Tool</font> (a) Group Work: team coordination, conflict resolution, intelligent scaffolding, i.e. breaking complex tasks into smaller steps, (b) Facilitate Peer review
+		- **Real-Time Teaching Support**: Study how AI can assist instructors during lectures by dynamically generating visual aids, examples, or explanations based on student questions. 
+		- Personalized learning (dynamically adjust curriculum based on students real-time performance and learning style + personalized feedback) 
 	- **Ethics, Social Implications, and Responsible AI**
 		- **~ <font color="#2DC26B">AI Literacy:</font>** Investigate how to responsibly <font color="#2DC26B">involve</font> AI in teaching and learning + critically evaluate AI-generated content 
 		- **Ethical Implications of AI Tutors**: Explore the boundaries of replacing human tutors with AI, focusing on the psychological and educational impacts on students.
