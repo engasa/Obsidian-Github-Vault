@@ -1,8 +1,11 @@
 # Now
 - [ ] ***Visioning:*** what ideas you want to accomplish in your research (the three themes)
 - [ ] ***Grants***: find / apply (use ideas from Visioning)
+	- [ ] ALT-2040: AI in education
 - [ ] ***Awards and recognition***: find /apply
+	- [ ] CS-CAN Sylvie? 
 - [ ] ***Papers:*** 
+	- [ ] Liam's paper
 	- [ ] recycle papers (conferences, journals) _ ask AI for ideas on recycling
 	- [ ] Online Conference: [NPSE](https://conference.pixel-online.net/NPSE/index.php)(Oct 9, $460) [INTED2025](https://iated.org/inted/)(Nov 21, $540 for 2 papers)
 		- [ ] e.g. TA allocator, 
