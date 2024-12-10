@@ -1,4 +1,7 @@
-ChatGPT: 
+others: 
+	https://www.linkedin.com/pulse/how-computer-vision-can-enhance-education-naveen-joshi
+
+From ChatGPT: 
 
 Using computer vision and deep learning to support ADHD students can provide innovative solutions to enhance their learning experience and manage symptoms. Here are some ideas:
 

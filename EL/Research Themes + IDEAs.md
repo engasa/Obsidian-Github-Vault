@@ -32,6 +32,7 @@
 		- OER
 	1. [[6. EDI, Accessibility, Ethics, Social|EDI, Accessibility, Ethics, Social]]: 
 		- Accessibility tools, 
+			- Support students with disabilities or EDI (explain diagrams, etc)
 		- Lang/culture diversity,
 		- accessible content,
 		- Responsibly involve AI,
