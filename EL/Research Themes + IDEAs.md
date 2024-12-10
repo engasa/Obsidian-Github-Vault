@@ -10,10 +10,10 @@
 - Computer Vision to detect and boost student engagement, and provide targeted support
 
 - #### IDEAs (How AI can be integrated in teaching/learning)
-	- **Assessment and Feedback:**
-		- **~ Explore the use of GenAI to 1) auto-grade assignments+ feedback, 2) <font color="#2DC26B">identify *common misconceptions</font>*.**
-		- ~<font color="#00b050">AI-Resistant Assessment Design</font>: Explore novel assessment methods that reduce the risk of AI-generated plagiarism while encouraging authentic student work
-		- **Rubric Generation and Standardization**: Research how Generative AI can standardize and streamline rubric creation for more consistent and transparent grading practices.
+	- **Assessment and Feedback:** 
+		1. auto-grade +  <font color="#2DC26B">identify *common misconceptions</font>
+		2. <font color="#00b050">AI-Resistant Assessment Design</font>
+		3. Rubric generation
 	- **Learning Support**
 		- <font color="#2DC26B"> AI as Collaborative Learning Tool</font> (a) Group Work: team coordination, conflict resolution, intelligent scaffolding, i.e. breaking complex tasks into smaller steps, (b) Facilitate Peer review
 		- **Real-Time Teaching Support**: Study how AI can assist instructors during lectures by dynamically generating visual aids, examples, or explanations based on student questions. 

@@ -18,8 +18,8 @@
 ### COURSE PLANNER
 - [ ] Workday API
 - [ ] Error handling
-- [ ] Connect UI to Optimization 
 - [ ] Optimizers: Course plans + schedules
+	- [ ] Connect UI to Optimization 
     - [ ] Gabriella's bug from before (when optimization more than once)
 	    - [ ] Screen freeze when: optimize->accept changes ->lock a course 121 ->  optimize again -> accept -> Index 0 out of bounds for length 
 ### TA Allocator
