@@ -1,5 +1,5 @@
 # Now
-- [ ] ***Visioning:*** what ideas you want to accomplish in your research ([[Three Research Themes]])
+- [ ] ***Visioning:*** what ideas you want to accomplish in your research ([[Research Themes + IDEAs]])
 - [ ] ***Grants***: find / apply (use ideas from Visioning) <font color="#00b050">Feb</font>
 	- [ ] CIA - OER exercises for programming (based on AI as Tutor)
 	- [ ] ALT-2040: AI in education (AI assignments? NuTeach?)
