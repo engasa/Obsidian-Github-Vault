@@ -1,6 +1,7 @@
 # Now
 - [ ] ***Visioning:*** what ideas you want to accomplish in your research ([[Three Research Themes]])
-- [ ] ***Grants***: find / apply (use ideas from Visioning)
+- [ ] ***Grants***: find / apply (use ideas from Visioning) <font color="#00b050">Feb</font>
+	- [ ] CIA - OER exercises for programming (based on AI as Tutor)
 	- [ ] ALT-2040: AI in education (AI assignments? NuTeach?)
 		- [ ] reach out to Michelle or someone to discuss the best ideas.
 	- [ ] Search Mitacs for projects
