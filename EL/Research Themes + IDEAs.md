@@ -10,9 +10,9 @@
 - Computer Vision to detect and boost student engagement, and provide targeted support
 
 - #### IDEAs
-	1. **[[1. AI Assessment and Feedback|Assessment]]:** 
-		- Auto-grade,  <font color="#2DC26B">common misconceptions</font>, AI-Resistant Assessment, Rubric generation
-	2. **Learning Support**
+	1. **[[1. AI Assessment and Feedback|Assessment]]:** Auto-grade,  <font color="#2DC26B">common misconceptions</font>, AI-Resistant Assessment, Rubric generation
+	2. **[[2. AI Collaborative Learning Tool|Collaborative Learning Tool]]**: scaffolding 
+	3. **Learning Support**
 		- <font color="#2DC26B"> AI as Collaborative Learning Tool</font> (a) Group Work: team coordination, conflict resolution, intelligent scaffolding, i.e. breaking complex tasks into smaller steps, (b) Facilitate Peer review
 		- **Real-Time Teaching Support**: Study how AI can assist instructors during lectures by dynamically generating visual aids, examples, or explanations based on student questions. 
 		- Personalized learning (dynamically adjust curriculum based on students real-time performance and learning style + personalized feedback) 
