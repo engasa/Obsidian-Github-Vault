@@ -5,6 +5,7 @@
 		- [ ] reach out to Michelle or someone to discuss the best ideas.
 	- [ ] Search Mitacs for projects
 - [ ] ***Awards and recognition***: find /apply
+	- [ ] ALT-2040 - <font color="#00b050">Feb 1</font>
 	- [ ] CS-CAN Sylvie - <font color="#00b050">Feb 1</font>
 	- [ ] D2L? (self-apply, <font color="#00b050">Feb 15</font>)
 	- [ ] OER Excellence and Impact Awards 
