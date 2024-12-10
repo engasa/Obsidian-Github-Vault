@@ -5,13 +5,14 @@
 		- [ ] reach out to Michelle or someone to discuss the best ideas.
 	- [ ] Search Mitacs for projects
 - [ ] ***Awards and recognition***: find /apply
-	- [ ] ALT-2040 - <font color="#00b050">Feb 1</font>
 	- [ ] CS-CAN Sylvie - <font color="#00b050">Feb 1</font>
 	- [ ] D2L? (self-apply, <font color="#00b050">Feb 15</font>)
 	- [ ] OER Excellence and Impact Awards 
 		- [ ] LearnCodign? but need proof of impact
 		- [ ] from بومة: 
 			- [ ] my educational material and open-source learning technologies gained recognition in the OER community. Much of my projects involve undergraduate student researchers, piloting technologies in the classroom to study the impact on student learning, co-authored student publications, dissemination of my work at conferences, adoption of my work within and beyond UBC, and requests to use my software beyond UBC.
+	- [ ] ALT-2040 - <font color="#00b050">Feb 2026</font> (YES, 2026.  Fund suspended for 24/25 - check later to confirm)
+		- [ ] IDEA: AI as tutor - develop OER material that involves guided exercises (similar to Liam's work - just extra material with AI guidance)
 - [ ] ***Papers:*** 
 	- [ ] Soon: 
 		- [ ] Liam's paper
