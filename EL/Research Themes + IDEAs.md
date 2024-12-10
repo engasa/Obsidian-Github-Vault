@@ -1,4 +1,4 @@
-### 1. Generative AI in CS Education
+### 1. AI in CS Education
  - **Learning Support**
 	- Tutor AI
 	- Advisor AI (courses, other aspects + RAG models)
@@ -10,26 +10,15 @@
 - Computer Vision to detect and boost student engagement, and provide targeted support
 
 - #### IDEAs
-	1. **[[1. AI Assessment and Feedback|Assessment]]:** Auto-grade,  <font color="#2DC26B">common misconceptions</font>, AI-Resistant Assessment, Rubric generation
-	2. **[[2. AI Collaborative Learning|Collaborative Learning]]**: Scaffolding, Conflict Resolution (sentiment analysis, mediation strategies), coordination (scheduling, shared workspace), Peer Review.
-	3. [[3. Plagiarism|Plagiarism]]: Detection, AI Resistive Assignments
-	4. **Learning Support**: 
-		1. Student: As Tutor, OER Content,  Content Generator
-		2. Instructor: Teaching support during lectures, Content Generator, Rubric generation
-
-	- **Ethics, Social Implications, and Responsible AI**
-		- **~ <font color="#2DC26B">AI Literacy:</font>** Investigate how to responsibly <font color="#2DC26B">involve</font> AI in teaching and learning + critically evaluate AI-generated content 
-		- **Ethical Implications of AI Tutors**: Explore the boundaries of replacing human tutors with AI, focusing on the psychological and educational impacts on students.
-		- **Student/Teacher Perceptions of AI in Learning**: longitudinal studies to understand student trust, acceptance, and ethical concerns surrounding the use of AI in their education.
-		- **Future of Work:** Explore how AI will impact the future of work in the CS field and how to prepare students for these changes.
-	 - **Curriculum Development**
-		 - ***~ <font color="#2DC26B">Code Generation for Learning Examples***</font>: generating coding examples for specific topics + measure its effectiveness in improving conceptual understanding.
-		 - **AI-Assisted Curriculum Design**: Examine how AI can assist educators in creating course content (syllabi, lesson plans, module content) that align with Bloom's taxonomy or other frameworks.
-		 - **Question Banks and Assessments**: produce diverse question banks for exams, quizzes, and practice problems, ensuring fairness and difficulty calibration.
-	 - **EDI + Accessibility**
-		 - **AI-Powered Accessibility Tools:** Develop AI-powered tools to make CS education more accessible to students with disabilities.
-		 - **AI for Language and Cultural Diversity:** Explore how AI can be used to support students from diverse linguistic and cultural backgrounds.
-		 - **Universal Design for Learning (UDL)**: Study how AI can create more inclusive learning materials, such as adaptive text, captions, and code explanations for students with disabilities.
+	1. **[[1. Assessment and Feedback|Assessment]]:** Auto-grade,  <font color="#2DC26B">common misconceptions</font>, AI-Resistant Assessment, Rubric generation
+	2. [[2. Plagiarism|Plagiarism]]: Detection, AI Resistive Assignments
+	3. [[3. Learning Support|Learning Support]]: 
+		1. ***Student***: Tutor, OER Content (guided tutoring), Advisor, Content Generator
+		2. ***Instructor***: Realtime support during lectures, Content Generator, Rubric generation
+	4. [[4. Curriculum Dev|Curriculum Dev]]
+	5. [[6. EDI, Accessibility, Ethics, Social|EDI, Accessibility, Ethics, Social]]: Accessibility tools, Lang/culture diversity, accessible content, Responsibly involve AI,  ethical implications, student/teacher perception, how AI impact future of work
+	6. **[[6. Collaborative Learning|Collaborative Learning]]**: Scaffolding, Conflict Resolution (sentiment analysis, mediation strategies), coordination (scheduling, shared workspace), Peer Review.
+	
 ### 2. Technology-Enhanced Educational Platforms
 - LearnCoding (parallel courseware, code visualizer, language comparison, etc)
 - NuTeach (gamification techniques, Spaced Repetition, etc)
