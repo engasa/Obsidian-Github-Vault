@@ -9,12 +9,10 @@
 - Machine-learning for adaptive learning environments
 - Computer Vision to detect and boost student engagement, and provide targeted support
 
-- #### IDEAs (How AI can be integrated in teaching/learning)
-	- **Assessment and Feedback:** 
-		1. auto-grade +  <font color="#2DC26B">identify *common misconceptions</font>
-		2. <font color="#00b050">AI-Resistant Assessment Design</font>
-		3. Rubric generation
-	- **Learning Support**
+- #### IDEAs
+	1. **[[1. AI Assessment and Feedback|Assessment]]:** 
+		- Auto-grade,  <font color="#2DC26B">common misconceptions</font>, AI-Resistant Assessment, Rubric generation
+	2. **Learning Support**
 		- <font color="#2DC26B"> AI as Collaborative Learning Tool</font> (a) Group Work: team coordination, conflict resolution, intelligent scaffolding, i.e. breaking complex tasks into smaller steps, (b) Facilitate Peer review
 		- **Real-Time Teaching Support**: Study how AI can assist instructors during lectures by dynamically generating visual aids, examples, or explanations based on student questions. 
 		- Personalized learning (dynamically adjust curriculum based on students real-time performance and learning style + personalized feedback) 
