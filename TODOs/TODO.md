@@ -4,6 +4,9 @@
 	- [ ] check Moh's conference, Egypt/Dubai conferences
 	- [ ] see where to publish Liam's work
 	- [ ] Contact Journals to inquire about your papers
+- [ ] Finish AR Course
+- [ ] Explore React Router 7
+- [ ] Search Mitacs for projects
 # Soon
 - [ ] ***Visioning:*** what ideas you want to accomplish in your research ([[Research Themes + IDEAs]])
 - [ ] ***Grants***: find / apply (use ideas from Visioning) <font color="#00b050">Feb</font>
@@ -18,7 +21,7 @@
 		- [ ] LearnCodign? but need proof of impact
 		- [ ] from بومة: 
 			- [ ] my educational material and open-source learning technologies gained recognition in the OER community. Much of my projects involve undergraduate student researchers, piloting technologies in the classroom to study the impact on student learning, co-authored student publications, dissemination of my work at conferences, adoption of my work within and beyond UBC, and requests to use my software beyond UBC.
-	- [ ] ALT-2040 - <font color="#00b050">Feb 2026</font> (YES, 2026.  Fund suspended for 24/25 - check later to confirm)
+	- [ ] ALT-2040 - <font color="#00b050">Feb 2026</font> (not a typo- it is 2026.  Fund suspended for 24/25 - check later to confirm)
 		- [ ] IDEA: AI as tutor - develop OER material that involves guided exercises (similar to Liam's work - just extra material with AI guidance)
 - [ ] ***Papers:***  
 	- Where:
