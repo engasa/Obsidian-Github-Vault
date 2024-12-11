@@ -5,6 +5,7 @@
 	* Motomo test/improvements 
 	* UI improvement (Home Screen)
 	* Touch screens, reactive, etc.
+	* Create a 'textbook' that can be viewed on  tablets/touchscreens. the textbook has the same material and features as the website
 - [ ] Research: deploy/test (COSC 111,121 and APSC177) and analyze how the student use the platform.   
 - [ ] Content: 
 	- [ ] Lesson cover artwork (lesson image)
