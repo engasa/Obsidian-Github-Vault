@@ -1,4 +1,4 @@
-### 1. AI in CS Education
+#### <font color="#ffff00"> 1. AI in CS Education</font>
  - **Learning Support**
 	- Tutor AI
 	- Advisor AI (courses, other aspects + RAG models)
@@ -9,7 +9,7 @@
 - Machine-learning for adaptive learning environments
 - Computer Vision to detect and boost student engagement, and provide targeted support
 
-- #### IDEAs
+- <font color="#de7802">IDEAs</font>
 	1. **[[1. Assessment and Feedback|Assessment]]:** 
 		- Auto-grader (code/essay)
 		- <font color="#2DC26B">Identify common misconceptions</font>
@@ -39,14 +39,17 @@
 		- ethical implications, student/teacher perception,
 		- how AI impact future of work
 	2. **[[6. Collaborative Learning|Collaborative Learning]]**: Scaffolding, Conflict Resolution (sentiment analysis, mediation strategies), coordination (scheduling, shared workspace), Peer Review.
-### 2. Technology-Enhanced Educational Platforms
+#### <font color="#ffff00"> 2. Technology-Enhanced Educational Platforms</font> 
 - LearnCoding (parallel courseware, code visualizer, language comparison, etc)
 - NuTeach (gamification techniques, Spaced Repetition, etc)
 - Course Planner (Optimization, Scheduling, Advising, etc)
 - TA allocation (optimization)
 - ULearn (ML for personalized quizzes)
 - DataPlayground (gamification for learning data structures)
-### 3.  Innovative, Inclusive Teaching in CS Education
+
+- <font color="#de7802">IDEAs</font>
+	- See ideas for [[Current]] and [[New]] technologies 
+#### <font color="#ffff00"> 3.  Innovative, Inclusive Teaching in CS Education</font>
 (used to be named: Innovative Teaching and Evaluation Methods)
 * Mixed-ability classes 
 * Study on Women in CS 

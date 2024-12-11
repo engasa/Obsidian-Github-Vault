@@ -1,7 +1,13 @@
 # Now
+- [ ] Papers 
+	- [ ] pick from [[Papers (planned)]]
+	- [ ] check Moh's conference, Egypt/Dubai conferences
+	- [ ] see where to publish Liam's work
+	- [ ] Contact Journals to inquire about your papers
+# Soon
 - [ ] ***Visioning:*** what ideas you want to accomplish in your research ([[Research Themes + IDEAs]])
 - [ ] ***Grants***: find / apply (use ideas from Visioning) <font color="#00b050">Feb</font>
-	- [ ] CIA - OER exercises for programming (based on AI as Tutor)
+	- [ ] <font color="#00b050">CIA</font> - OER exercises for programming (based on AI as Tutor)
 	- [ ] ALT-2040: AI in education (AI assignments? NuTeach?)
 		- [ ] reach out to Michelle or someone to discuss the best ideas.
 	- [ ] Search Mitacs for projects
@@ -14,48 +20,27 @@
 			- [ ] my educational material and open-source learning technologies gained recognition in the OER community. Much of my projects involve undergraduate student researchers, piloting technologies in the classroom to study the impact on student learning, co-authored student publications, dissemination of my work at conferences, adoption of my work within and beyond UBC, and requests to use my software beyond UBC.
 	- [ ] ALT-2040 - <font color="#00b050">Feb 2026</font> (YES, 2026.  Fund suspended for 24/25 - check later to confirm)
 		- [ ] IDEA: AI as tutor - develop OER material that involves guided exercises (similar to Liam's work - just extra material with AI guidance)
-- [ ] ***Papers:*** 
-	- [ ] Soon: 
-		- [ ] Liam's paper
-		- [ ] Jared Paper -> CV conf in Egypt/Dubai (Moh can direct)
-		- [ ] NFSE papers (ML + physical rewards)
-		- [ ] your journals
-	- [ ] recycle papers (conferences, journals) _ ask AI for ideas on recycling
-	- [ ] Online Conference: [NPSE](https://conference.pixel-online.net/NPSE/index.php)(Oct 9, $460) [INTED2025](https://iated.org/inted/)(Nov 21, $540 for 2 papers)
-		- [ ] e.g. TA allocator, 
-	- [ ] Gender Disparity 
-	- [ ] Where? Egypt, Dubai
-	- [ ] Mohamed conference in UAE + Vancouver
-	- [ ] Course Planner advanced optimization model
+- [ ] ***Papers:***  
+	- Where:
+		- Egypt, Dubai
+		- Mohamed conference in UAE + Vancouver
+		- Online Conference: [NPSE](https://conference.pixel-online.net/NPSE/index.php)(Oct 9, $460) [INTED2025](https://iated.org/inted/)(Nov 21, $540 for 2 papers),  e.g. TA allocator, 
+	- [ ] Ideas: see [[Papers (planned)]]
+
 - [ ] Qatar Institute reviewer + Fellowship for something (Mohamed) 
 - [ ] بص على سي في بومة و ظبط سيفيهك (مثلا اكتب عدد الطلبة اللى استخدموا موقعك)
-- [x] ALT-2040 extend 
-- [ ] which Workday API to use for saving schedules
 - [ ] Personal
-	- [x] why BCAA went up by 150?
 	- [ ] buy car
 - [ ] course dev
-	- [ ] Programming Course (online) 1.5 months
-	- [ ] web dev course
+	- [ ] AR Programming Course (online) 1.5 months
+	- [ ] Adv Web dev course
 # Follow-ups
-- [ ] Start-up company - email to Sandra (?)
+- [ ] Contact Scott/Ifeoma: Web Dev Course
 - [ ] PIA email from James or something sign to Ashri
-- [x] Contact Scott/Ifeoma: Web Dev Course
-- [x] LC: test new features in COSC 111/121/177
-# Soon
-- [ ] Papers 
-	- [ ] Liams work 
-		- [ ] also expand
-	- [ ] Expand Existing work:
-		- [ ] ChatGPT SWOT: try to expand and submit to [Computers and Education](https://www.scimagojr.com/journalsearch.php?q=17645&tip=sid&clean=0)
-		- [ ] 
-- [ ] Start-up (equity discussion) + meet Sarah
+- [ ] Start-up + meet James/Sandra
+# Later
 - [ ] contact journals to check paper status
 
-# Follow-ups
-- [ ] 
-# Next
-- 
 ***
 # General TODOs
 
@@ -68,21 +53,8 @@
 - DONE: Teaching Fellow Award - May 15 to CTL. (Need Head Support) 
 ### PROJECTS
 - Pitch NuTeach to Other Univ
-- Pitch ULearn + LearnCoding to others
-- $600 LearnCoding 
-- SEE "TODO PROJECTS.txt"
-
-### PAPERS
-- Abby, Satanshu, AITutor,
-- mini from LearnCoding etc.
-- Egypt July Conf (after vanc)
-- Ideas:
-    - “Teaching CS1 Programming with the Aid of Code Visualizer,” (60%).
-    - “Using Domain-oriented exercises in CS1 course”
-    - “An intuitive approach to simultaneously introduce multiple programming languages in CS1 course”
-### MISCs
-- Pick a Grad student
-- UBC drop optional services
+- Pitch ULearn (Satanshu) + LearnCoding to others
+- SEE ideas [[New]] and [[Current]] projects
 
 # PERSONAL
 * Video tutorials in Ar, Remix framework

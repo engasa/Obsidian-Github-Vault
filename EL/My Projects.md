@@ -1,12 +1,12 @@
 ### Active Projects
 - [ ] NuTeach
 - [ ] LearnCoding
-- [ ] CoursePlanner components on web
+- [ ] CoursePlanner 
 ### Others that can be extended
 - [ ] CoursePlanner Optimizers:
 	- [ ] for long-term plans
 	- [ ] for Scheduler
-- [ ] System developed, but no study: 
+- [ ] System developed
 	- [ ] DataPlayground: Study of Effectiveness
 	- [ ] Akshat: Learning Data structures by example
 	- [ ] Larry: Spaced Repetition 

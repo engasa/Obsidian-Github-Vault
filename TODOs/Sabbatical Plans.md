@@ -12,8 +12,7 @@
 ### Technologies
 * EL projects
 * Online platform for COSC111 exams
-* Auto-grading assignments	
-	* Unit testing. if fails, then partial grading using AI?	
+* Auto-grading assignments: Unit testing. if fails, then partial grading using AI?	
 * extend AI as tutor
 ### Impact 
 - deploy your tools in courses + test
