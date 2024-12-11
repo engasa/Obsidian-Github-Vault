@@ -48,7 +48,10 @@
 - DataPlayground (gamification for learning data structures)
 
 - <font color="#de7802">IDEAs</font>
-	- See ideas for [[Current]] and [[New]] technologies 
+	- DS / Honours Student for [[Current]] and [[New]] technologies 
+	- Things you can do: 
+		- design research student for  [[Current]] technologies
+		- optimizers 
 #### <font color="#ffff00"> 3.  Innovative, Inclusive Teaching in CS Education</font>
 (used to be named: Innovative Teaching and Evaluation Methods)
 * Mixed-ability classes 
