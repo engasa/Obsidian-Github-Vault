@@ -4,14 +4,14 @@
 	- [ ] NFSE papers (ML + physical rewards)
 	- [ ] your journals
 - [ ] Expand Existing work:
-		- [ ] ChatGPT SWOT: try to expand and submit to [Computers and Education](https://www.scimagojr.com/journalsearch.php?q=17645&tip=sid&clean=0)
-		- [ ] ???
-- [ ] recycle papers (conferences, journals) _ ask AI for ideas on recycling
+	- [ ] ChatGPT SWOT: try to expand and submit to [Computers and Education](https://www.scimagojr.com/journalsearch.php?q=17645&tip=sid&clean=0)
+	- [ ] recycle papers (conferences, journals) _ ask AI for ideas on recycling
+	- [ ] mini from LearnCoding etc
 - [ ] Gender Disparity 
 - [ ] Course Planner advanced optimization model
 
 - Abby, Satanshu, AITutor,
-- mini from LearnCoding etc.
+- .
 - Egypt July Conf (after vanc)
 - Ideas:
     - “Teaching CS1 Programming with the Aid of Code Visualizer,” (60%).
