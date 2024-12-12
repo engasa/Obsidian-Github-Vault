@@ -4,9 +4,9 @@
 	- [ ] check Moh's conference, Egypt/Dubai conferences
 	- [ ] see where to publish Liam's work
 	- [ ] Contact Journals to inquire about your papers
-- [ ] Finish AR Course
-- [ ] Explore React Router 7
-- [ ] Search Mitacs for projects
+- [ ] AR Course
+- [ ] React Router 7
+- [ ] Funding:  Mitacs for projects
 # Soon
 - [ ] ***Visioning:*** what ideas you want to accomplish in your research ([[Research Themes + IDEAs]])
 - [ ] ***Grants***: find / apply (use ideas from Visioning) <font color="#00b050">Feb</font>
