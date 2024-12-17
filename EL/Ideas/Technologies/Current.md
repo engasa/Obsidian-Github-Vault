@@ -1,4 +1,7 @@
 <font color="#00b050">Learn Coding</font>
+- [ ] Research: 
+	- [ ] Parallel Courseware effectiveness
+	- [ ] deploy/test (COSC 111,121 and APSC177) and analyze how the student use the platform.
 - [ ] Development: 
 	* Connect to Canvas 
 	* Instructor level access rights (i.e. who can access what).
@@ -6,7 +9,6 @@
 	* UI improvement (Home Screen)
 	* Touch screens, reactive, etc.
 	* Create a 'textbook' that can be viewed on  tablets/touchscreens. the textbook has the same material and features as the website
-- [ ] Research: deploy/test (COSC 111,121 and APSC177) and analyze how the student use the platform.   
 - [ ] Content: 
 	- [ ] Lesson cover artwork (lesson image)
 	- [ ] Add Videos 
