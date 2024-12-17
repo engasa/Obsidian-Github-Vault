@@ -1,6 +1,6 @@
 <font color="#00b050">Learn Coding</font>
 - [ ] Research: 
-	- [ ] Parallel Courseware effectiveness
+	- [ ] Parallel Courseware effectiveness (ask engineering students and nonCS to test each objective/benefit - see Parallel Courseware paper)
 	- [ ] deploy/test (COSC 111,121 and APSC177) and analyze how the student use the platform.
 - [ ] Development: 
 	* Connect to Canvas 
