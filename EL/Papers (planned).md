@@ -1,5 +1,6 @@
 - [ ] Soon: 
 	- [ ] Liam's paper
+	- [ ] Parallel Courseware 
 	- [ ] Jared Paper -> CV conf in Egypt/Dubai (Moh can direct)
 	- [ ] NFSE papers (ML + physical rewards)
 	- [ ] your journals
