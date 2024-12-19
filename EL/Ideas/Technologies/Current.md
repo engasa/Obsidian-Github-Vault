@@ -26,6 +26,7 @@
 	* <font color="#00b050">Scheduler</font>: Workday API: send schedules back to Workday  
 	* <font color="#00b050">Transcript</font>: read/integrate
 	* <font color="#00b050">Advising</font>: read from reddit etc, test AI, use Llama
+	* <font color="#00b050">Course Insignts</font>: social media posts (reddit), ratemyprof, grade history, etc.
 	* General: 
 		* Error Handling/Boundaries
 * Research: 
