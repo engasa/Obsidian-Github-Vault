@@ -25,7 +25,10 @@
 	* <font color="#00b050">Planner</font>: generic plan, other degrees, minor/major
 	* <font color="#00b050">Scheduler</font>: Workday API: send schedules back to Workday  
 	* <font color="#00b050">Transcript</font>: read/integrate
-	* <font color="#00b050">Degree Verifier</font>: read degree from Workday, verify courses, etc.
+	* <font color="#00b050">Degree</font>: read degree  requirements, verify degree vs courses, etc.
+		* Find a way to read the degree requirements from UBC public data (e.g. scrape websites, read directly from Workday database, ..)
+		- Figure out a way to formally model the degree requirements (e.g. json object) so they can be used in the program
+		- Find a way to compare and allocate courses to the degree and show the result of how many requirements are satisfied/not satisfied.
 	* <font color="#00b050">Advising</font>: read from reddit etc, test AI, use Llama
 	* <font color="#00b050">Course Insignts</font>: social media posts (reddit), ratemyprof, grade history, etc.
 	* General: 
