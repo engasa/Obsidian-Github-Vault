@@ -19,7 +19,7 @@
 	- Exam grader (essays, code)
  - **Studies:** 
 	- SWOT analysis + Academic integrity 
-- Machine-learning for adaptive learning environments
+- Machine-learning for adaptive learning environments (ULearn)
 - Computer Vision to detect and boost student engagement, and provide targeted support
 
 - <font color="#de7802">IDEAs</font>
