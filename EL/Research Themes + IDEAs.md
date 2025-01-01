@@ -26,7 +26,9 @@
 	1. **[[1. Assessment and Feedback|Assessment]]:** 
 		- Auto-grader (code/essay)
 		- <font color="#2DC26B">Identify common misconceptions</font>
-		- AI-Resistant Assessment
+		- <font color="#00b050">AI-Resistant Assessment</font> 
+			- Assignments designed with AI guiding students, but detects if AI is used to solve assignments
+			- Assignments -> cannot be solved by AI, or AI easily detected
 		- Rubric generation
 	2. [[2. Plagiarism|Plagiarism]]: 
 		- Detection
