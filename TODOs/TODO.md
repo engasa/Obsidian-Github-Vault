@@ -1,9 +1,9 @@
 # Now
 - [ ] Today
-	- [ ] Mostafa paper 
 	- [ ] TA journal selection 
-	- [ ] Satanshu paper
 	- [ ] ITiCSE submission 
+	- [ ] Done - Mostafa paper 
+	- [ ] Done - Satanshu paper
 - [ ] Papers 
 	- [ ] pick from [[Papers (planned)]]
 	- [ ] check Moh's conference, Egypt/Dubai conferences
