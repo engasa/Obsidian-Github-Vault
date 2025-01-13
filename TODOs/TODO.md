@@ -1,6 +1,6 @@
 # Now
 - [ ] Today
-	- [ ] Mostafa paper
+	- [ ] Mostafa paper 
 	- [ ] TA journal selection 
 	- [ ] Satanshu paper
 	- [ ] ITiCSE submission 
