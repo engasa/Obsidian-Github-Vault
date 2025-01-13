@@ -4,6 +4,7 @@
 	- [ ] ITiCSE submission 
 	- [ ] Done - Mostafa paper 
 	- [ ] Done - Satanshu paper
+	- [ ] Done - Aadil DS
 - [ ] Papers 
 	- [ ] pick from [[Papers (planned)]]
 	- [ ] check Moh's conference, Egypt/Dubai conferences
