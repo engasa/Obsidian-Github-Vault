@@ -1,7 +1,7 @@
 # Now
 - [ ] Today
-	- [ ] TA journal selection 
-	- [ ] ITiCSE submission 
+	- [ ] Done - TA journal selection 
+	- [ ] Done - ITiCSE submission 
 	- [ ] Done - Mostafa paper 
 	- [ ] Done - Satanshu paper
 	- [ ] Done - Aadil DS
