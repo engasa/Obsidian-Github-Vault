@@ -8,7 +8,7 @@
 - [ ] Papers 
 	- [ ] pick from [[Papers (planned)]]
 	- [ ] check Moh's conference, Egypt/Dubai conferences
-	- [ ] see where to publish Liam's work
+	- [x] see where to publish Liam's work
 	- [ ] Contact Journals to inquire about your papers
 - [ ] AR Course
 - [ ] React Router 7
