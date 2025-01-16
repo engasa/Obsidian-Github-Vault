@@ -1,6 +1,7 @@
 # Now
 - [ ] Today
-	- [ ] Done - TA journal selection 
+	- [ ]  TA journal selection _ ask what you're doing wrong_
+	- [ ] Jared I'm
 	- [ ] Done - ITiCSE submission 
 	- [ ] Done - Mostafa paper 
 	- [ ] Done - Satanshu paper
