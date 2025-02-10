@@ -1,10 +1,11 @@
 # Now
 - [ ] Today
-	- [ ] Done - TA journal selection 
-	- [ ] Done - ITiCSE submission 
-	- [ ] Done - Mostafa paper 
-	- [ ] Done - Satanshu paper
-	- [ ] Done - Aadil DS
+	- [ ] Moh Conference
+		- [ ] Jared Paper
+		- [ ] Satanshu Paper
+	- [ ] Follow up 
+		- [ ] Mostafa paper -> NPSE
+		- [ ] DS students with Mostafa
 - [ ] Papers 
 	- [ ] pick from [[Papers (planned)]]
 	- [ ] check Moh's conference, Egypt/Dubai conferences
