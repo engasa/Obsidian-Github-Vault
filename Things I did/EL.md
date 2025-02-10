@@ -25,7 +25,7 @@
 		- **CTL Teaching Fellow**
 
 * COSC 111 online exams in lab for first time - positive feedback overall. need to figure out a way to keep doing this.
-
+* Track Chair for the “Engineering Education” track at IEEE Canadian Conference on Electrical and Computer Engineering 2025*
 * LearnCoding: 
 	* Meeting with Engineering (Thomas + Dean) - they want to switch to Python for first year, then their Design Studio Course will use C++. Students now need to be able to switch from Python to C++ and to Java. --> they want to use LC for helping students. Dean Riche
 	* 5,262 awards (Dec 2024)
