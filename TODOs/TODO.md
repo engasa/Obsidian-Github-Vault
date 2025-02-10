@@ -1,20 +1,18 @@
 # Now
 - [ ] Today
-	- [ ] Moh Conference
-		- [ ] Jared Paper
-		- [ ] Satanshu Paper
-	- [ ] Follow up 
-		- [ ] Mostafa paper -> NPSE
-		- [ ] DS students with Mostafa
-
 - [ ] Papers 
 	- [ ] pick from [[Papers (planned)]]
 	- [ ] check Moh's conference, Egypt/Dubai conferences
-	- [x] see where to publish Liam's work
 	- [ ] Contact Journals to inquire about your papers
 - [ ] AR Course
 - [ ] React Router 7
 - [ ] Funding:  Mitacs for projects
+
+# Follow up 
+- [ ] Papers
+	- [ ]  Moh Conference (Jared, Satanshu)
+	- [ ] ITiCSE Conference (Parallel, Liam)
+
 # Soon
 - [ ] ***Visioning:*** what ideas you want to accomplish in your research ([[Research Themes + IDEAs]])
 - [ ] ***Grants***: find / apply (use ideas from Visioning) <font color="#00b050">Feb</font>
