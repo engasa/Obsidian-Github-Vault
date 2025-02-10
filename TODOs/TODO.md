@@ -6,6 +6,7 @@
 	- [ ] Follow up 
 		- [ ] Mostafa paper -> NPSE
 		- [ ] DS students with Mostafa
+
 - [ ] Papers 
 	- [ ] pick from [[Papers (planned)]]
 	- [ ] check Moh's conference, Egypt/Dubai conferences
