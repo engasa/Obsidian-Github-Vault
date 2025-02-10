@@ -6,6 +6,7 @@
 	- [ ] check Moh's conference, Egypt/Dubai conferences
 		- [ ] Apr 15: https://imsa.msa.edu.eg/
 	- [ ] Contact Journals to inquire about your papers
+	- [ ] "Transfer programming knowledge": Work with Richert
 - [ ] AR Course
 - [ ] React Router 7
 - [ ] Funding:  Mitacs for projects
