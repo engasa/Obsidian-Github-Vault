@@ -1,5 +1,7 @@
 # Now
 - [ ] Today
+- [ ] course planer model
+- [ ] give EL dossier + papers to ai
 - [ ] Papers 
 	- [ ] WCCCE Mar 15
 	- [ ] pick from [[Papers (planned)]]
