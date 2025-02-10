@@ -1,8 +1,8 @@
 - [ ] Soon: 
-	- [ ] Liam's paper
-	- [ ] Parallel Courseware 
-	- [ ] Jared Paper -> CV conf in Egypt/Dubai (Moh can direct)
-	- [ ] NFSE papers (ML + physical rewards)
+	- [x] Liam's paper
+	- [x] Parallel Courseware 
+	- [x] Jared Paper -> CV conf in Egypt/Dubai (Moh can direct)
+	- [x] NFSE papers (ML + physical rewards)
 	- [ ] your journals
 - [ ] Expand Existing work:
 	- [ ] ChatGPT SWOT: try to expand and submit to [Computers and Education](https://www.scimagojr.com/journalsearch.php?q=17645&tip=sid&clean=0)

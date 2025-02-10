@@ -1,6 +1,7 @@
 # Now
 - [ ] Today
 - [ ] Papers 
+	- [ ] WCCCE Mar 15
 	- [ ] pick from [[Papers (planned)]]
 	- [ ] check Moh's conference, Egypt/Dubai conferences
 		- [ ] Apr 15: https://imsa.msa.edu.eg/
