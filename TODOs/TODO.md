@@ -3,6 +3,7 @@
 - [ ] Papers 
 	- [ ] pick from [[Papers (planned)]]
 	- [ ] check Moh's conference, Egypt/Dubai conferences
+		- [ ] Apr 15: https://imsa.msa.edu.eg/
 	- [ ] Contact Journals to inquire about your papers
 - [ ] AR Course
 - [ ] React Router 7
