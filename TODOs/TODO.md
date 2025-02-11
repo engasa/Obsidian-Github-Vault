@@ -2,7 +2,7 @@
 - [ ] give EL dossier + papers to ai
 - [ ] CoursePlaner
 	- [ ] finalize model
-	- [ ] advising ethics?
+	- [ ] advising ethics: RQ: AI can provide reliable advising + more convenient
 - [ ] Hire students ($9,000: ALT $3,500 + Assoc Head $5,500)
 	- [ ] Colton for Course Planner
 	- [ ] Anand for Mitacs + other stuff
