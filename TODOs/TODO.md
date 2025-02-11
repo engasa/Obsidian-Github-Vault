@@ -2,20 +2,23 @@
 - [ ] Today
 	- [ ] give EL dossier + papers to ai
 	- [ ] course planer model
+- [ ] Hire students ($9,000: ALT $3,500 + Assoc Head $5,500)
+	- [ ] Colton for Course Planner
+	- [ ] Anand for Mitacs + other stuff
 - [ ] Papers 
+	- [ ] Proposal: **Transfer programming knowledge**
+		- [ ] Proposal to Richert
 	- [ ] WCCCE Mar 15
-	- [ ] pick from [[Papers (planned)]]
-	- [ ] check Moh's conference, Egypt/Dubai conferences
-		- [ ] Apr 15: https://imsa.msa.edu.eg/
-	- [ ] Contact Journals to inquire about your papers
-	- [ ] "Transfer programming knowledge": Work with Richert
+		- [ ] Course planner?
+	- [ ] Egypt/Dubai Conferences
+		- [ ] Egypt Apr 15: https://imsa.msa.edu.eg/
+	- [ ] Pick from [[Papers (planned)]]
 - [ ] AR Course
-- [ ] Proposal to Richert: 
-	- [ ] Parallel Courseware to Support Knowledge Transfer Across Programming Languages
 - [ ] React Router 7
 - [ ] Funding:  Mitacs for projects
 
 # Follow up 
+- [ ] Contact Journals to inquire about your papers
 - [ ] Papers
 	- [ ]  Moh Conference (Jared, Satanshu)
 	- [ ] ITiCSE Conference (Parallel, Liam)
