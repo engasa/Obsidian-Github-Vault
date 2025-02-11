@@ -1,7 +1,6 @@
 # Now
-- [ ] Today
-	- [ ] give EL dossier + papers to ai
-	- [ ] course planer model
+- [ ] give EL dossier + papers to ai
+- [ ] course planer model
 - [ ] Hire students ($9,000: ALT $3,500 + Assoc Head $5,500)
 	- [ ] Colton for Course Planner
 	- [ ] Anand for Mitacs + other stuff
@@ -16,15 +15,13 @@
 - [ ] AR Course
 - [ ] React Router 7
 - [ ] Funding:  Mitacs for projects
-
 # Follow up 
 - [ ] Contact Journals to inquire about your papers
-- [ ] Papers
-	- [ ]  Moh Conference (Jared, Satanshu)
-	- [ ] ITiCSE Conference (Parallel, Liam)
+- [ ] CCECE Conference (Jared, Satanshu) + ITiCSE Conference (Parallel, Liam)
 # Soon
-- [ ] ***Visioning:*** what ideas you want to accomplish in your research ([[Research Themes + IDEAs]])
+- [ ] COSC 123 - design experiment for teaching coding using games / animation 
 - [ ] Teaching Dossier + CV: Update 
+- [ ] ***Visioning:*** what ideas you want to accomplish in your research ([[Research Themes + IDEAs]])
 - [ ] ***Grants***: find / apply (use ideas from Visioning) <font color="#00b050">Feb</font>
 	- [ ] <font color="#00b050">CIA</font> - OER exercises for programming (based on AI as Tutor)
 	- [ ] ALT-2040: AI in education (AI assignments? NuTeach?)
