@@ -21,6 +21,8 @@
 - [ ] CCECE Conference (Jared, Satanshu) + ITiCSE Conference (Parallel, Liam)
 # Soon
 - [ ] COSC 123 - design experiment for teaching coding using games / animation 
+- [ ] Dept wide study on the use of AI in Teaching and Learning 
+	- [ ] design questionnaire - get teachers' feedback
 - [ ] Teaching Dossier + CV: Update 
 - [ ] ***Visioning:*** what ideas you want to accomplish in your research ([[Research Themes + IDEAs]])
 - [ ] ***Grants***: find / apply (use ideas from Visioning) <font color="#00b050">Feb</font>
