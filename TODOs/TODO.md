@@ -1,7 +1,7 @@
 # Now
 - [ ] Today
-- [ ] course planer model
-- [ ] give EL dossier + papers to ai
+	- [ ] give EL dossier + papers to ai
+	- [ ] course planer model
 - [ ] Papers 
 	- [ ] WCCCE Mar 15
 	- [ ] pick from [[Papers (planned)]]
@@ -10,6 +10,8 @@
 	- [ ] Contact Journals to inquire about your papers
 	- [ ] "Transfer programming knowledge": Work with Richert
 - [ ] AR Course
+- [ ] Proposal to Richert: 
+	- [ ] Parallel Courseware to Support Knowledge Transfer Across Programming Languages
 - [ ] React Router 7
 - [ ] Funding:  Mitacs for projects
 
