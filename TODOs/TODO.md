@@ -22,9 +22,9 @@
 - [ ] Papers
 	- [ ]  Moh Conference (Jared, Satanshu)
 	- [ ] ITiCSE Conference (Parallel, Liam)
-
 # Soon
 - [ ] ***Visioning:*** what ideas you want to accomplish in your research ([[Research Themes + IDEAs]])
+- [ ] Teaching Dossier + CV: Update 
 - [ ] ***Grants***: find / apply (use ideas from Visioning) <font color="#00b050">Feb</font>
 	- [ ] <font color="#00b050">CIA</font> - OER exercises for programming (based on AI as Tutor)
 	- [ ] ALT-2040: AI in education (AI assignments? NuTeach?)
