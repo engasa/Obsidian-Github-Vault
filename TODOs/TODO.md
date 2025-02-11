@@ -1,5 +1,6 @@
 # Now
 - [ ] give EL dossier + papers to ai
+- [ ] hire RA (you have about $9k)
 - [ ] CoursePlaner
 	- [ ] finalize model
 	- [ ] advising ethics: RQ: AI can provide reliable advising + more convenient
