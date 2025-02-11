@@ -15,6 +15,7 @@
  - **Learning Support**
 	- Tutor AI
 	- Advisor AI (courses, other aspects + RAG models)
+	- Contextualizing Exercises using AI
 - **Enhanced Assessment and Feedback**
 	- Exam grader (essays, code)
  - **Studies:** 
