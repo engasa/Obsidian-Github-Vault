@@ -23,7 +23,7 @@
 *- URA/USRA committee chair: review of applications and rank them (Feb 2024)
 
 *- Associate Head
-	- see contract for duties
+	- see contract for duties + text i created under Contract folder for things i did
 	- helped with hiring sessionals (made suggestions for 2024 COSC hiring)
 	- prereq waivers for all four disciplines
 	- DS and Honours applications for COSC
