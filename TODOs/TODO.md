@@ -1,19 +1,19 @@
 # Now
 - [ ] give EL dossier + papers to ai
-- [ ] course planer model
+- [ ] CoursePlaner
+	- [ ] finalize model
+	- [ ] advising ethics?
 - [ ] Hire students ($9,000: ALT $3,500 + Assoc Head $5,500)
 	- [ ] Colton for Course Planner
 	- [ ] Anand for Mitacs + other stuff
 - [ ] Papers 
-	- [ ] Proposal: **Transfer programming knowledge**
-		- [ ] Proposal to Richert
+	- [ ] Proposal APSC177: **Transfer programming knowledge** - to Richert
 	- [ ] WCCCE Mar 15
-		- [ ] Course planner?
+		- [ ] Course planner optimization? framework? (see AOU)
 	- [ ] Egypt/Dubai Conferences
 		- [ ] Egypt Apr 15: https://imsa.msa.edu.eg/
 	- [ ] Pick from [[Papers (planned)]]
 - [ ] AR Course
-- [ ] React Router 7
 - [ ] Funding:  Mitacs for projects
 # Follow up 
 - [ ] Contact Journals to inquire about your papers
