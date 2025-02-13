@@ -1,7 +1,8 @@
 # Now
 - [x] give EL dossier + papers to ai
 	- [ ] Result: see AI response: great ideas!
-- [ ] - [ ] Hire students ($9,000: ALT $3,500 + Assoc Head $5,500)
+- [ ] Review CCECE papers
+- [ ] Hire students ($9,000: ALT $3,500 + Assoc Head $5,500)
 	- [ ] Learn Coding integration
 	- [ ] Anand for Mitacs + other stuff
 - [ ] Think of how to solve 'AI-resistive Coding Assignments'
