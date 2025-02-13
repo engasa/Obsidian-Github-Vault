@@ -1,3 +1,5 @@
+(also see Papers based on [[Papers Based on Existing work]])
+
 <font color="#00b050">Learn Coding</font>
 - [ ] Research: 
 	- [ ] Parallel Courseware effectiveness (ask engineering students and nonCS to test each objective/benefit - see Parallel Courseware paper)
