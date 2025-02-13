@@ -1,18 +1,18 @@
 # Now
 - [x] give EL dossier + papers to ai
 	- [ ] Result: see AI response: great ideas!
-- [ ] hire RA (you have about $9k)
+- [ ] - [ ] Hire students ($9,000: ALT $3,500 + Assoc Head $5,500)
+	- [ ] Learn Coding integration
+	- [ ] Anand for Mitacs + other stuff
 - [ ] CoursePlaner
 	- [ ] study and finalize optimization model + write paper
 	- [ ] advising ethics: RQ: AI can provide reliable advising + more convenient
 - [ ] Gender disparity - finish paper.
-- [ ] Hire students ($9,000: ALT $3,500 + Assoc Head $5,500)
-	- [ ] Colton for Course Planner
-	- [ ] Anand for Mitacs + other stuff
 - [ ] Papers 
 	- [ ] Proposal APSC177: **Transfer programming knowledge** - to Richert
 	- [ ] WCCCE Mar 15
 		- [ ] Course planner optimization? framework? (see AOU)
+		- [ ] other recycled papers
 	- [ ] Egypt/Dubai Conferences
 		- [ ] Egypt Apr 15: https://imsa.msa.edu.eg/
 	- [ ] Pick from [[Papers (planned)]]
