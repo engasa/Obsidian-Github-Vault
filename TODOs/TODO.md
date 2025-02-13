@@ -1,6 +1,6 @@
 # Now
 - [x] give EL dossier + papers to ai
-	- [ ] Result: great ideas! analyze them.
+	- [ ] Result: see AI response: great ideas!
 - [ ] hire RA (you have about $9k)
 - [ ] CoursePlaner
 	- [ ] study and finalize optimization model + write paper
