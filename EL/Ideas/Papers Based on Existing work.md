@@ -9,15 +9,9 @@ ideas for extending/publishing existing work:
 2. **Scalability and Sustainability of Parallel Courseware**
     - **Idea:** Present a systematic analysis of the expansion model of parallel courseware. Frame the discussion in terms of sustainability, scalability, and instructor collaboration.
     - **Minimal Contribution:** A re-analysis of existing courseware expansion models with additional discussion on long-term adaptability.
-3. **Multilingual Programming Education: Lessons from Parallel Courseware**
+3. **Multilingual Instructions in CS Education: Lessons from Parallel Courseware**
     - **Idea:** Leverage the existing parallel courseware multilingual implementation (English/French) to discuss the challenges and benefits of multilingual programming education.
     - **Minimal Contribution:** A literature-backed discussion on multilingual programming instruction, using data from the current platform.
-4. **GenAI for Automated Content Generation in Parallel Courseware**
-    - **Idea:** Explore how large language models (LLMs) like ChatGPT can generate parallel courseware content, including coding exercises, explanations, and quizzes.
-    - **Minimal Contribution:** Conduct a case study on using GenAI to create and refine educational material.
-5. **AI-Assisted Personalized Learning Pathways in Parallel Courseware**    
-    - **Idea:** Leverage GenAI to dynamically generate personalized learning pathways based on student progress and performance.
-    - **Minimal Contribution:** Apply an AI-based approach to recommend course materials using historical student performance data.
 ##### <font color="#00b0f0">Extending Existing Work for Publication</font>
 1. **AI-Powered Content Adaptation in Parallel Courseware**
     - **New Work:** Implement machine learning techniques to personalize content recommendations within the courseware (e.g., adaptive difficulty levels or customized topic sequencing).
@@ -42,12 +36,6 @@ ideas for extending/publishing existing work:
 3. **Exploring Student Perceptions of Flipped Learning Over Time**
     - **Idea:** Focus specifically on survey responses and qualitative student feedback over multiple course offerings.
     - **Minimal Contribution:** Thematic analysis of student perceptions across different semesters.
-4. **Using GenAI for Personalized Code Tutoring in CS1**
-    - **Idea:** Examine how AI tutors can provide explanations and debugging assistance tailored to student ability levels.
-    - **Minimal Contribution:** Comparative analysis of AI-generated vs. instructor feedback.
-5. **AI-Driven Dynamic Difficulty Adjustment in CS1 Assignments**
-    - **Idea:** Explore how adaptive AI-based assessment tools adjust the difficulty of programming exercises in real-time.
-    - **Minimal Contribution:** Implementation and evaluation of an AI-based assessment system.
 ##### <font color="#00b0f0">Extending Existing Work for Publication</font>
 1. **Personalized Learning Pathways in CS1 for Mixed-Ability Students**
     - **New Work:** Develop an AI-driven adaptive learning system to adjust content difficulty based on student performance.
