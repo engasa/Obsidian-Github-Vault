@@ -2,31 +2,23 @@ ideas for extending/publishing existing work:
 1. New Papers from Existing Work with Minimal New Contribution:
 2. Extending Existing Work with more contribution for Publication
 #### <font color="#00b050"> 1. Adaptable Platform for Coding Education</font>
-
 ##### <font color="#00b0f0">New Papers from Existing Work (Minimal New Contribution)</font>
-
 1. **Cross-Disciplinary Impact of Parallel Courseware**
     - **Idea:** Analyze and compare how the parallel courseware model is received by students from different disciplines (e.g., CS, engineering, mathematics). Use existing student feedback and survey data to present a comparative analysis.
     - **Minimal Contribution:** A new perspective on adoption across disciplines, drawing insights from previously collected student experiences.
-	    
 2. **Scalability and Sustainability of Parallel Courseware**
     - **Idea:** Present a systematic analysis of the expansion model of parallel courseware. Frame the discussion in terms of sustainability, scalability, and instructor collaboration.
     - **Minimal Contribution:** A re-analysis of existing courseware expansion models with additional discussion on long-term adaptability.
-    
 3. **Multilingual Programming Education: Lessons from Parallel Courseware**
     - **Idea:** Leverage the existing parallel courseware multilingual implementation (English/French) to discuss the challenges and benefits of multilingual programming education.
     - **Minimal Contribution:** A literature-backed discussion on multilingual programming instruction, using data from the current platform.
-    
 4. **GenAI for Automated Content Generation in Parallel Courseware**
     - **Idea:** Explore how large language models (LLMs) like ChatGPT can generate parallel courseware content, including coding exercises, explanations, and quizzes.
     - **Minimal Contribution:** Conduct a case study on using GenAI to create and refine educational material.
-
 5. **AI-Assisted Personalized Learning Pathways in Parallel Courseware**    
     - **Idea:** Leverage GenAI to dynamically generate personalized learning pathways based on student progress and performance.
     - **Minimal Contribution:** Apply an AI-based approach to recommend course materials using historical student performance data.
-
 ##### <font color="#00b0f0">Extending Existing Work for Publication</font>
-
 1. **AI-Powered Content Adaptation in Parallel Courseware**
     - **New Work:** Implement machine learning techniques to personalize content recommendations within the courseware (e.g., adaptive difficulty levels or customized topic sequencing).
     - **Impact:** Enhances personalized learning and provides a roadmap for AI-driven courseware expansion.
@@ -41,9 +33,7 @@ ideas for extending/publishing existing work:
     - **Impact:** Enhances adaptive learning by providing targeted feedback and additional explanations.
 ---
 #### <font color="#00b050">2. Mixed-Ability CS1 Classes</font>
-
 ##### <font color="#00b0f0">New Papers from Existing Work (Minimal New Contribution)</font>
-
 1. **Revisiting Flipped Learning in CS1: A Longitudinal Study**    
     - **Idea:** Reanalyze student performance, engagement, and perception data over multiple semesters to identify long-term trends.
     - **Minimal Contribution:** A longitudinal analysis of previously collected data.
@@ -60,7 +50,6 @@ ideas for extending/publishing existing work:
     - **Idea:** Explore how adaptive AI-based assessment tools adjust the difficulty of programming exercises in real-time.
     - **Minimal Contribution:** Implementation and evaluation of an AI-based assessment system.
 ##### <font color="#00b0f0">Extending Existing Work for Publication</font>
-
 1. **Personalized Learning Pathways in CS1 for Mixed-Ability Students**
     - **New Work:** Develop an AI-driven adaptive learning system to adjust content difficulty based on student performance.
     - **Impact:** Supports more effective differentiation of instruction.
@@ -73,9 +62,7 @@ ideas for extending/publishing existing work:
 4. **Analyzing AI-Generated Student Code Explanations for Accuracy and Effectiveness**    
     - **New Work:** Investigate how well GenAI explains CS1 programming concepts and whether students find these explanations effective.
     - **Impact:** Contributes to the discussion on AI’s role in education.
----
 #### <font color="#00b050">3. Stimulating Students’ Motivation (NuTeach & Data Playground)</font>
-
 ##### <font color="#00b0f0">New Papers from Existing Work (Minimal New Contribution)</font>
 1. **Gamification in Programming Education: A Comparative Analysis of NuTeach and Data Playground**
     - **Idea:** Compare student engagement levels between these two platforms.
@@ -91,10 +78,6 @@ ideas for extending/publishing existing work:
     
     - **New Work:** Conduct a multi-semester study to track knowledge retention.
     - **Impact:** Provides empirical evidence of gamification’s long-term effectiveness.
-
----
-
-
 #### <font color="#00b050">4. Long-Term Course Planner</font>
 ##### <font color="#00b0f0">New Papers from Existing Work (Minimal New Contribution)</font>
 1. **Comparing Optimization Approaches for Course Planning**
@@ -128,7 +111,6 @@ ideas for extending/publishing existing work:
 5. **AI-Generated Alternative Study Plans for Degree Flexibility**
     - **New Work:** Extend the course planner to generate multiple valid degree pathways based on student preferences (e.g., faster graduation, minimal workload).
     - **Impact:** Increases student autonomy and academic success.
----
 #### <font color="#00b050">5. AI in CS Education</font>
 ##### <font color="#00b0f0">New Papers from Existing Work (Minimal New Contribution)</font>
 1. **GenAI in CS Education: A Framework for Effective Use**
@@ -162,7 +144,6 @@ ideas for extending/publishing existing work:
 5. **Evaluating AI in Project-Based CS Learning**
     - **New Work:** Examine the effectiveness of GenAI-generated project scaffolds and feedback in capstone courses.
     - **Impact:** Supports more structured project development through AI guidance.
----
 #### <font color="#00b050">6. Gender Disparity in CS Programs</font>
 ##### <font color="#00b0f0">New Papers from Existing Work (Minimal New Contribution)</font>
 1. **Gender and Self-Efficacy in CS: A Comparative Study Across Institutions**
