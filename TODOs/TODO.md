@@ -1,9 +1,11 @@
 # Now
-- [ ] give EL dossier + papers to ai
+- [x] give EL dossier + papers to ai
+	- [ ] Result: great ideas! analyze them.
 - [ ] hire RA (you have about $9k)
 - [ ] CoursePlaner
-	- [ ] finalize model
+	- [ ] study and finalize optimization model + write paper
 	- [ ] advising ethics: RQ: AI can provide reliable advising + more convenient
+- [ ] Gender disparity - finish paper.
 - [ ] Hire students ($9,000: ALT $3,500 + Assoc Head $5,500)
 	- [ ] Colton for Course Planner
 	- [ ] Anand for Mitacs + other stuff
