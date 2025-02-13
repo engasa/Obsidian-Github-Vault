@@ -76,15 +76,13 @@ ideas for extending/publishing existing work:
 ---
 #### <font color="#00b050">3. Stimulating Students’ Motivation (NuTeach & Data Playground)</font>
 
-##### **New Papers from Existing Work (Minimal New Contribution):**
-
+##### <font color="#00b0f0">New Papers from Existing Work (Minimal New Contribution)</font>
 1. **Gamification in Programming Education: A Comparative Analysis of NuTeach and Data Playground**
     - **Idea:** Compare student engagement levels between these two platforms.
     - **Minimal Contribution:** Side-by-side analysis of student behavior on the two platforms.
 2. **The Role of Digital Rewards in Student Motivation: Evidence from NuTeach**
     - **Idea:** Examine student behavior and engagement patterns related to redeemable rewards in NuTeach.
     - **Minimal Contribution:** A focused analysis of existing data on reward-based motivation.
-
 ##### <font color="#00b0f0">Extending Existing Work for Publication</font>
 1. **Expanding Gamification: Adaptive Challenges Based on Student Skill Level**
     - **New Work:** Implement an AI-driven system that adjusts the difficulty of challenges dynamically.
