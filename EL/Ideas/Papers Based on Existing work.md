@@ -31,7 +31,6 @@ ideas for extending/publishing existing work:
 4. **Using AI to Detect Learning Gaps in Parallel Courseware**
     - **New Work:** Train an AI model to identify common student mistakes and misconceptions based on quiz and exercise performance.
     - **Impact:** Enhances adaptive learning by providing targeted feedback and additional explanations.
----
 #### <font color="#00b050">2. Mixed-Ability CS1 Classes</font>
 ##### <font color="#00b0f0">New Papers from Existing Work (Minimal New Contribution)</font>
 1. **Revisiting Flipped Learning in CS1: A Longitudinal Study**    
