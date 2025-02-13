@@ -4,6 +4,7 @@
 - [ ] - [ ] Hire students ($9,000: ALT $3,500 + Assoc Head $5,500)
 	- [ ] Learn Coding integration
 	- [ ] Anand for Mitacs + other stuff
+- [ ] Think of how to solve 'AI-resistive Coding Assignments'
 - [ ] CoursePlaner
 	- [ ] study and finalize optimization model + write paper
 	- [ ] advising ethics: RQ: AI can provide reliable advising + more convenient
