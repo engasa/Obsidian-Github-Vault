@@ -46,6 +46,8 @@
 * Funding:
 	* Mitacs Accelerate (for Mahomud) 
 
+* Associate Editor CJECE: - stepped down Feb 16.
+
 * See [[old/UBC_orig/Things I did/EL#Recurring|Recuring Items]]
 
 ***
