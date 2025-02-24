@@ -1,6 +1,6 @@
 # Now
 - [x] give EL dossier + papers to ai to find research ideas 
-	- [ ] Result: see AI response: great ideas!
+	- [ ] Result: see AI response: great ideas + [[Papers Based on Existing work]]
 - [ ] Review CCECE papers
 - [ ] Hire students 
 	- [ ] $12,500: (ALT $3,500 + AssocHead1 $5,500 + AssocHead2 $3,500)
