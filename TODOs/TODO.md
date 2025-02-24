@@ -1,11 +1,13 @@
 # Now
-- [x] give EL dossier + papers to ai
+- [x] give EL dossier + papers to ai to find research ideas 
 	- [ ] Result: see AI response: great ideas!
 - [ ] Review CCECE papers
-- [ ] Hire students ($9,000: ALT $3,500 + Assoc Head $5,500)
-	- [ ] Learn Coding integration
-	- [ ] Anand for Mitacs + other stuff
-- [ ] Think of how to solve 'AI-resistive Coding Assignments'
+- [ ] Hire students 
+	- [ ] $12,500: (ALT $3,500 + AssocHead1 $5,500 + AssocHead2 $3,500)
+		- [ ] Learn Coding integration
+		- [ ] Anand? Suyash? 
+	- [ ]  Makerspace: Anand/Ariq 
+- [ ] Think of how to solve [[AI-Resistant Assessment]]
 - [ ] CoursePlaner
 	- [ ] study and finalize optimization model + write paper
 	- [ ] advising ethics: RQ: AI can provide reliable advising + more convenient
