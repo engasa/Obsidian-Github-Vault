@@ -1,22 +1,23 @@
 # Now
 - [x] give EL dossier + papers to ai to find research ideas 
 	- [ ] Result: see AI response: great ideas + [[Papers Based on Existing work]]
-- [ ] Review CCECE papers
+- [x] Review CCECE papers
 - [ ] Hire students 
-	- [ ] $12,500: (ALT $3,500 + AssocHead1 $5,500 + AssocHead2 $3,500)
+	- [ ] $12,500: (ALT $3,500 + AssocHead1 $5,500 + AssocHead2 $3,500 + $1,300 CIA)
 		- [ ] Learn Coding integration
 		- [ ] Anand? Suyash? 
 	- [ ]  Makerspace: Anand/Ariq 
 - [ ] Think of how to solve [[AI-Resistant Assessment]]
+	- [ ] <font color="#00b0f0">	good idea: allow AI as assistant + AI to review response and prevent plagiarism before sending back to student</font>
 - [ ] CoursePlaner
 	- [ ] study and finalize optimization model + write paper
 	- [ ] advising ethics: RQ: AI can provide reliable advising + more convenient
 - [ ] Gender disparity - finish paper.
 - [ ] Papers 
 	- [ ] Proposal APSC177: **Transfer programming knowledge** - to Richert
-	- [ ] WCCCE Mar 15
-		- [ ] Course planner optimization? framework? (see AOU)
-		- [ ] other recycled papers
+	- [x] WCCCE Mar 15
+		- [x] Course planner optimization? framework? (see AOU)
+		- [x] other recycled papers
 	- [ ] Egypt/Dubai Conferences
 		- [ ] Egypt Apr 15: https://imsa.msa.edu.eg/
 	- [ ] Pick from [[Papers (planned)]]
