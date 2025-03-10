@@ -25,7 +25,9 @@
 		- **CTL Teaching Fellow**
 
 * COSC 111 online exams in lab for first time - positive feedback overall. need to figure out a way to keep doing this.
-* Track Chair for the “Engineering Education” track at IEEE Canadian Conference on Electrical and Computer Engineering 2025 (details in EL\Journal-COnf Managemet\Conf Track Chari)
+* CCECE
+	* Track Chair for the “Engineering Education” track at IEEE Canadian Conference on Electrical and Computer Engineering 2025 (details in EL\Journal-COnf Managemet\Conf Track Chari)
+	* reviewer (6 papers in EL stream)
 * LearnCoding: 
 	* Meeting with Engineering (Thomas + Dean) - they want to switch to Python for first year, then their Design Studio Course will use C++. Students now need to be able to switch from Python to C++ and to Java. --> they want to use LC for helping students. Dean Riche
 	* 5,262 awards (Dec 2024)
@@ -47,6 +49,7 @@
 	* Mitacs Accelerate (for Mahomud) 
 
 * Associate Editor CJECE: - stepped down Feb 16.
+* 
 
 * See [[old/UBC_orig/Things I did/EL#Recurring|Recuring Items]]
 
