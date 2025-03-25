@@ -23,6 +23,9 @@
 	* Nominated for 
 		- **Provost's Teaching Excellence award** (shortlisted? probably not.)
 		- **CTL Teaching Fellow**
+	- Travel Grant/ Assoc Head Funds
+- Papers
+	- CCECE/iTiCSE/WCCCE/Journals
 
 * COSC 111 online exams in lab for first time - positive feedback overall. need to figure out a way to keep doing this.
 * CCECE
@@ -48,6 +51,7 @@
 	* Paid URAs: Anand/Ariq (Makerspace)
 	* Anand/Aamir (learn coding) - was it this year? 
 	* other funding? 
+	* Committee member: Andres Escobedo, MEng student, Engineering: Computational Fluid Dynamics Group, building a GPU accelerated fork of a computational fluid dynamics solver, Joshua Brinkerhoff's student (see his email Nov 15, 2023 ).
 * Funding:
 	* Mitacs Accelerate (for Mahomud) 
 
