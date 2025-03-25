@@ -45,6 +45,9 @@
 	* MSc student: Mahmoud ...
 	* x DS + y Honours + z Volunteers
 		* talk about their projects  
+	* Paid URAs: Anand/Ariq (Makerspace)
+	* Anand/Aamir (learn coding) - was it this year? 
+	* other funding? 
 * Funding:
 	* Mitacs Accelerate (for Mahomud) 
 
