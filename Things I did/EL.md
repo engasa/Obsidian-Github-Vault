@@ -25,7 +25,8 @@
 		- **CTL Teaching Fellow**
 	- Travel Grant/ Assoc Head Funds
 - Papers
-	- CCECE/iTiCSE/WCCCE/Journals
+	- CCECE/iTiCSE/WCCCE/Journals accepted
+	- presentaionts at above conferences
 
 * COSC 111 online exams in lab for first time - positive feedback overall. need to figure out a way to keep doing this.
 * CCECE
