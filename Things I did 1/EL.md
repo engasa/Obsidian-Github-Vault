@@ -12,7 +12,7 @@
 ***TODO:** You want to present all projects under  TWO or THREE Themes (areas) where you dig deep!!!! instead of having a salad of projects, you have focused heavily in one or two areas and improved it) -- e.g. see your Teaching Fellowship application.*
 
 ***
-## Apr 2024 - Mar 2025
+## Apr 2025 - Mar 2026
 * Papers:
 	* Planned: course-planner journal, 2x AI grader, parallel courseware, AI course advising, gender, disparity, others with Mostafa, CV Workshop (Kyra), 
 * Students
