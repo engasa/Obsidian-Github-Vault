@@ -1,6 +1,6 @@
 # Now
 - [ ] Grants Expiring Soon (Assoc Head: Jun 30 2025, Mitacs: Mar 2026)
-	- [ ] 
+- [ ] emails
 - [ ] EduAI Research Group
 	- [ ] meet with students, profs,...
 	- [ ] start volunteer work
@@ -15,6 +15,7 @@
 	- [ ] Proposal APSC177: **Transfer programming knowledge** - to Richert
 	- [ ] Egypt/Dubai Conferences: Egypt Apr 15: https://imsa.msa.edu.eg/
 	- [ ] Pick from [[Github-Vault/EL/Papers (planned)]]
+- [ ] Prepare next year's courses (123,111,211)
 - [ ] Travel Grants  
 - [ ] Update your CV (use AI for recommendations)
 - [ ] A bit later: 
