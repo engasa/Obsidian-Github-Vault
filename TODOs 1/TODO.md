@@ -2,7 +2,7 @@
 - [ ] Grants Expiring Soon (Assoc Head: Jun 30 2025, Mitacs: Mar 2026)
 	- [ ] 
 - [ ] EduAI Research Group
-	- [ ] meet with students, profs,
+	- [ ] meet with students, profs,...
 	- [ ] start volunteer work
 	- [ ] Website
 - [ ] Conference Presentations: Ensure CCECE slides are ready.
