@@ -1,20 +1,22 @@
 # Now
+- [ ] Grants Expiring Soon (Assoc Head: Jun 30 2025, Mitacs: Mar 2026)
+	- [ ] 
 - [ ] EduAI Research Group
 	- [ ] meet with students, profs,
 	- [ ] start volunteer work
+	- [ ] Website
+- [ ] Conference Presentations: Ensure CCECE slides are ready.
+- [ ] NuTeach - major featrues/get feedback from profs and students/etc
 - [ ] Papers
-	- [x] Submit Course Planner paper 
-	- [x] TA Paper revision (16 Apr)
-	- [ ] LC paper revision (Sep 2025)
-	- [ ] Parallel Courseware
-	- [ ] DS Papers (Khizar, Ali, Ahamad)
+	- [ ] Parallel Courseware Journal or Conference? or both?
+	- [ ] DS Papers (Khizar, Ali, Ahamad + Suyash) + Satanshu + Class rewards
 	- [ ] Gender disparity - finish paper.
+	- [ ] LearnCoding paper revision (Sep 2025)
 	- [ ] Proposal APSC177: **Transfer programming knowledge** - to Richert
 	- [ ] Egypt/Dubai Conferences: Egypt Apr 15: https://imsa.msa.edu.eg/
 	- [ ] Pick from [[Github-Vault/EL/Papers (planned)]]
-
 - [ ] Travel Grants  
-- [ ] Update your CV
+- [ ] Update your CV (use AI for recommendations)
 - [ ] A bit later: 
 	- [ ] class-rewards survey and git draw
 	- [ ] nuteach update grades
@@ -27,7 +29,6 @@
 		- [ ] Anand? Suyash? 
 - [ ] Think of how to solve [[Github-Vault/EL/Ideas/AI-Resistant Assessment]]
 	- [ ] <font color="#00b0f0">	good idea: allow AI as assistant + AI to review response and prevent plagiarism before sending back to student</font>
-- [ ] AR Course
 - [ ] Funding:  Mitacs for projects
 # Follow up 
 - [ ] Contact Journals to inquire about your papers
