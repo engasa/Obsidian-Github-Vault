@@ -1,0 +1,22 @@
+- [ ] Soon: 
+	- [x] Liam's paper
+	- [x] Parallel Courseware 
+	- [x] Jared Paper -> CV conf in Egypt/Dubai (Moh can direct)
+	- [x] NFSE papers (ML + physical rewards)
+	- [x] WCCCE AI advisign
+	- [ ] your journals
+- [ ] Expand Existing work:
+	- [x] ChatGPT SWOT: try to expand and submit to [Computers and Education](https://www.scimagojr.com/journalsearch.php?q=17645&tip=sid&clean=0)
+	- [ ] recycle papers (conferences, journals) _ ask AI for ideas on recycling
+	- [ ] mini from LearnCoding etc
+- [ ] Gender Disparity 
+- [ ] Course Planner advanced optimization model
+
+- Abby, Satanshu, AITutor,
+- .
+- Egypt July Conf (after vanc)
+- Ideas:
+	- "Transfer programming knowledge"
+    - “Teaching CS1 Programming with the Aid of Code Visualizer,” (60%).
+    - “Using Domain-oriented exercises in CS1 course”
+    - “simultaneously introduce multiple programming languages in CS1 course

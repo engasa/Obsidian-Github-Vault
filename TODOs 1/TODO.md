@@ -1,26 +1,32 @@
 # Now
+- [ ] EduAI Research Group
+	- [ ] meet with students, profs,
+	- [ ] start volunteer work
+- [ ] Papers
+	- [x] Submit Course Planner paper 
+	- [x] TA Paper revision (16 Apr)
+	- [ ] LC paper revision (Sep 2025)
+	- [ ] Parallel Courseware
+	- [ ] DS Papers (Khizar, Ali, Ahamad)
+	- [ ] Gender disparity - finish paper.
+	- [ ] Proposal APSC177: **Transfer programming knowledge** - to Richert
+	- [ ] Egypt/Dubai Conferences: Egypt Apr 15: https://imsa.msa.edu.eg/
+	- [ ] Pick from [[Github-Vault/EL/Papers (planned)]]
+
+- [ ] Travel Grants  
+- [ ] Update your CV
+- [ ] A bit later: 
+	- [ ] class-rewards survey and git draw
+	- [ ] nuteach update grades
+- [ ] Java AR Course
 - [x] give EL dossier + papers to ai to find research ideas 
 	- [ ] Result: see AI response: great ideas + [[Github-Vault/EL/Ideas/Papers Based on Existing work]]
-- [x] Review CCECE papers
-- [ ] Hire students 1
+- [ ] Hire students 
 	- [ ] $12,500: (~~ALT $3,500 +~~ AssocHead1 $5,500 + AssocHead2 $3,500 + $1,300 CIA)
 		- [ ] Learn Coding integration
 		- [ ] Anand? Suyash? 
-	- [x]  Makerspace: Anand/Ariq 
 - [ ] Think of how to solve [[Github-Vault/EL/Ideas/AI-Resistant Assessment]]
 	- [ ] <font color="#00b0f0">	good idea: allow AI as assistant + AI to review response and prevent plagiarism before sending back to student</font>
-- [ ] CoursePlaner
-	- [ ] study and finalize optimization model + write paper
-	- [ ] advising ethics: RQ: AI can provide reliable advising + more convenient
-- [ ] Gender disparity - finish paper.
-- [ ] Papers 
-	- [ ] Proposal APSC177: **Transfer programming knowledge** - to Richert
-	- [x] WCCCE Mar 15
-		- [x] Course planner optimization? framework? (see AOU)
-		- [x] other recycled papers
-	- [ ] Egypt/Dubai Conferences
-		- [ ] Egypt Apr 15: https://imsa.msa.edu.eg/
-	- [ ] Pick from [[Github-Vault/EL/Papers (planned)]]
 - [ ] AR Course
 - [ ] Funding:  Mitacs for projects
 # Follow up 
