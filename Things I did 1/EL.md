@@ -15,6 +15,10 @@
 ## Apr 2025 - Mar 2026
 * Papers:
 	* Planned: course-planner journal, 2x AI grader, parallel courseware, AI course advising, gender, disparity, others with Mostafa, CV Workshop (Kyra), 
+	* accepted: 
+		* Egypt Conference Mahmoud (IEEE IMSA indexed in scopus and IEEE)
+		* CASCON? 
+		* LearnCoding ETRD journal accepted (had to do major revision which took significant amount of work)
 * Students
 	* MSc student: Mahmoud
 	* x DS + y Honours + z Volunteers

@@ -1,4 +1,9 @@
 ***
+## Sep 2025 - Apr 2024
+
+- Associate Head (see meetings.txt, previous year's service, etc)
+- Participated in Barbara Komlos's session on AI in Education (see emails in August)
+- 
 ## Apr 2024 - Sep 2024
 
 - Associate Head (see meetings.txt, previous year's service, etc)

@@ -8,9 +8,6 @@
 
 - <font color="#de7802">IDEAs</font>
 	- DS / Honours Student for [[Github-Vault/EL 1/Ideas/Technologies/Current]] and [[Github-Vault/EL 1/Ideas/Technologies/New]] technologies 
-	- Things you can do: 
-		- design research studies for  [[Github-Vault/EL 1/Ideas/Technologies/Current]] technologies
-		- optimizers 
 #### <font color="#ffff00"> 2. AI in CS Education</font>
  - **Learning Support**
 	- Tutor AI
@@ -27,7 +24,7 @@
 	1. **[[Github-Vault/EL 1/Ideas/GenAI/1. Assessment and Feedback|Assessment]]:** 
 		- Auto-grader (code/essay)
 		- <font color="#2DC26B">Identify common misconceptions</font> 
-		- [[Github-Vault/EL 1/Ideas/AI-Resistant Assessment]] <font color="#00b050"> --this--</font>
+		- [[Github-Vault/EL 1/Ideas/GenAI/AI-Resistant Assessment]] <font color="#00b050"> --this--</font>
 		- Rubric generation
 	2. [[Github-Vault/EL 1/Ideas/GenAI/2. Plagiarism|Plagiarism]]: 
 		- Detection

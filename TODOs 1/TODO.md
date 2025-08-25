@@ -1,23 +1,33 @@
 # Now
-- [ ] Grants Expiring Soon (Assoc Head: Jun 30 2025, Mitacs: Mar 2026)
-- [ ] emails
-- [ ] Class rewards gift-card draw
-- [ ] webdev course
-- [ ] EduAI Research Group
-	- [ ] meet with students, profs,...
-	- [ ] start volunteer work
-	- [ ] Website
-- [ ] Conference Presentations: Ensure CCECE slides are ready.
-- [ ] NuTeach - major featrues/get feedback from profs and students/etc
 - [ ] Papers
-	- [ ] Parallel Courseware Journal or Conference? or both?
+	- [ ] ***Parallel Courseware*** Journal or Conference? or both?
+	- [ ] TA allocation - submit to one of 2 which accepted your work
 	- [ ] DS Papers (Khizar, Ali, Ahamad + Suyash) + Satanshu + Class rewards
 	- [ ] Gender disparity - finish paper.
 	- [ ] LearnCoding paper revision (Sep 2025)
 	- [ ] Proposal APSC177: **Transfer programming knowledge** - to Richert
 	- [ ] Egypt/Dubai Conferences: Egypt Apr 15: https://imsa.msa.edu.eg/
-	- [ ] Pick from [[Github-Vault/EL/Papers (planned)]]
+	- [ ] Pick from[[Github-Vault/EL 1/Papers (planned)]]
 - [ ] Prepare next year's courses (123,111,211)
+	- [ ]  COSC 111 Vibe Coding (also tell Pat about gender disparity)
+- [ ] Personal:
+	- [ ] will الوصية +
+	- [ ] **kobo فلوس شراءه**
+	- [ ] aشراء تابلت +
+	- [ ] fفلوس سجي المدينة +
+	- [ ] car شراء عربية +
+	- [ ] garage shelves, شطافة و الجراج
+- [ ] Grants Expiring Soon (Assoc Head: Jun 30 2025, Mitacs: Mar 2026)
+- [ ] emails
+- [x] Class rewards gift-card draw
+- [ ] webdev course
+- [ ] EduAI Research Group
+	- [ ] meet with students, profs,...
+	- [ ] start volunteer work
+	- [ ] Website
+- [ ] Personal: Psych
+- [x] Conference Presentations: Ensure CCECE slides are ready.
+- [ ] NuTeach - major featrues/get feedback from profs and students/etc
 - [ ] Travel Grants  
 - [ ] Update your CV (use AI for recommendations)
 - [ ] A bit later: 
@@ -25,12 +35,12 @@
 	- [ ] nuteach update grades
 - [ ] Java AR Course
 - [x] give EL dossier + papers to ai to find research ideas 
-	- [ ] Result: see AI response: great ideas + [[Github-Vault/EL/Ideas/Papers Based on Existing work]]
+	- [ ] Result: see AI response: great ideas + [[Github-Vault/EL 1/Ideas/Papers Based on Existing work]]
 - [ ] Hire students 
 	- [ ] $12,500: (~~ALT $3,500 +~~ AssocHead1 $5,500 + AssocHead2 $3,500 + $1,300 CIA)
 		- [ ] Learn Coding integration
 		- [ ] Anand? Suyash? 
-- [ ] Think of how to solve [[Github-Vault/EL/Ideas/AI-Resistant Assessment]]
+- [ ] Think of how to solve [[Github-Vault/EL 1/Ideas/GenAI/AI-Resistant Assessment|AI-Resistant Assessment]]
 	- [ ] <font color="#00b0f0">	good idea: allow AI as assistant + AI to review response and prevent plagiarism before sending back to student</font>
 - [ ] Funding:  Mitacs for projects
 # Follow up 
@@ -41,7 +51,7 @@
 - [ ] Dept wide study on the use of AI in Teaching and Learning 
 	- [ ] design questionnaire - get teachers' feedback
 - [ ] Teaching Dossier + CV: Update 
-- [ ] ***Visioning:*** what ideas you want to accomplish in your research ([[Github-Vault/EL/Research Themes + IDEAs]])
+- [ ] ***Visioning:*** what ideas you want to accomplish in your research ([[Github-Vault/EL 1/Research Themes + IDEAs]])
 - [ ] ***Grants***: find / apply (use ideas from Visioning) <font color="#00b050">Feb</font>
 	- [ ] <font color="#00b050">CIA</font> - OER exercises for programming (based on AI as Tutor)
 	- [ ] ALT-2040: AI in education (AI assignments? NuTeach?)
@@ -63,7 +73,7 @@
 		- Online Conference: [NPSE](https://conference.pixel-online.net/NPSE/index.php)(Oct 9, $460) [INTED2025](https://iated.org/inted/)(Nov 21, $540 for 2 papers),  e.g. TA allocator, 
 	- [ ] Ideas: see [[Github-Vault/EL/Papers (planned)]]
 
-- [ ] Qatar Institute reviewer + Fellowship for something (Mohamed) 
+- [x] Qatar Institute reviewer + Fellowship for something (Mohamed) 
 - [ ] بص على سي في بومة و ظبط سيفيهك (مثلا اكتب عدد الطلبة اللى استخدموا موقعك)
 - [ ] Personal
 	- [ ] buy car
