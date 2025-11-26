@@ -51,6 +51,8 @@
 		- updated UI to work on mobile phones (responsive CSS)
 	* 
 * OER (Open Ed Resource): LearnCoding, NuTeach, Course material 
+	* LC is open now to world
+	* NuTeach is integrated in Canvas
 * ICPC
 	* our UBCO team came 1st in BC site and 2nd in the whole Pacific Northwest region wining 1 gold and 1 silver medal and D2 Champions title.
 		* (overall, we won several gold,silver,and bronze - Anand, who organized ICPC for 3 years, in 2025 said: " I secured funding for ICPC for four consecutive years and led teams that collectively won 1 gold, 1 silver, and 2 bronze medals, helping UBCO place 2nd as Regional Champions in the ICPC Pacific Northwest region.")
