@@ -19,19 +19,41 @@
 		* Egypt Conference Mahmoud (IEEE IMSA indexed in scopus and IEEE)
 		* CASCON? 
 		* LearnCoding ETRD journal accepted (had to do major revision which took significant amount of work)
+		* CASCON (Ahmad AI Grading)
+* Awards: 
+	* Teaching excllnece nomination, and win (insha'a Allah) 
 * Students
 	* MSc student: Mahmoud
 	* x DS + y Honours + z Volunteers
-		* talk about their projects  
+		* talk about their PROJECTS!!!!!  
 	* URAs: Anand/Ariq (Makerspace May - Sep 2025)
 	* Volunteers (Dhairya, Amaan, ...)
 * Funding:
-	* Mitacs BSI (for Mahomud) 
+	* Mitacs BSI (for Mahomud) (+15)
+	* ALT-2040?
 	- ? EL Travel Grant
 	- ? CMPS support
 	- ? 1000 SoTL?
 	- 3500 Assoc Head Funds
-	
+
+* Projects
+	* EduAI framework + related preojects
+	* Several Edu AI tools (Questoin generator, etc.)
+* Technologies
+	* Eclipse Extension Like Python Tutor (Ethan Godden)??
+	* NuTeach 
+		* integrated in canvas
+		* removed vpn (worked with IT; implemented security/privacy UBC policies)
+	* LearnCoding 
+		* removed vpn (worked with IT; implemented security/privacy UBC policies)
+		- open to world (ORE??)
+		- used by others (okanagan college? uofc? uoft? etc)
+		- updated UI to work on mobile phones (responsive CSS)
+	* 
+* OER (Open Ed Resource): LearnCoding, NuTeach, Course material 
+* ICPC
+	* our UBCO team came 1st in BC site and 2nd in the whole Pacific Northwest region wining 1 gold and 1 silver medal and D2 Champions title.
+		* (overall, we won several gold,silver,and bronze - Anand, who organized ICPC for 3 years, in 2025 said: " I secured funding for ICPC for four consecutive years and led teams that collectively won 1 gold, 1 silver, and 2 bronze medals, helping UBCO place 2nd as Regional Champions in the ICPC Pacific Northwest region.")
 ## Apr 2024 - Mar 2025
 <font color="#00b0f0">	 = in CV, == in Teaching Dossier, * in AAR report</font>
 * = **SoTL Spotlight**: featured in [SoTL spotlight](https://ctl.ok.ubc.ca/scholarship/sotl/)

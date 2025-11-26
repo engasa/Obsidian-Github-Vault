@@ -2,7 +2,8 @@
 ## Sep 2025 - Apr 2024
 
 - Associate Head (see meetings.txt, previous year's service, etc)
-- Participated in Barbara Komlos's session on AI in Education (see emails in August)
+	- see 2025/26 folder and subfolders for duties
+- Participated in Barbara Komlos's session in "Back to Teaching Readiness" workshop named "Modeling Effective User of GenAI" held on Aug 27,2025 (see emails in August + Service\CTL folder)
 - 
 ## Apr 2024 - Sep 2024
 
