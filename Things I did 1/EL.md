@@ -58,7 +58,9 @@
 * =ICPC
 	* our UBCO team came 1st in BC site and 2nd in the whole Pacific Northwest region wining 1 gold and 1 silver medal and D2 Champions title.
 		* (overall, we won several gold,silver,and bronze - Anand, who organized ICPC for 3 years, in 2025 said: " I secured funding for ICPC for four consecutive years and led teams that collectively won 1 gold, 1 silver, and 2 bronze medals, helping UBCO place 2nd as Regional Champions in the ICPC Pacific Northwest region.")
-* SkyTrac Hackathon - I chaired a committee to send our best 5 students to participate in this event which involves $15K cash prize and potential hiring - we had very tight timeline (8 days) to select students. See more details in EL\Hackathon SkyTrac
+* SkyTrac Hackathon 
+	- I chaired a committee to send our best 5 students to participate in this event which involves $15K cash prize and potential hiring - we had very tight timeline (8 days) to select students. See more details in EL\Hackathon SkyTrac
+	- took several hours, probably 5? (2 hrs prep/criteria definition/process design/meetings with student Om Mistry/etc + qualtrics form generation + meetings)
 * Reviewer
 	* EDTR
 ## Apr 2024 - Mar 2025
