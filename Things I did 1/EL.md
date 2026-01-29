@@ -1,4 +1,3 @@
-
 ***See:-***
 - *Collective agreement (Sect. 4.04) and SAC (Sect. ??) on what EL involves.  e.g. curriculum renewal, course design, new assessment models, ..*
 - *Bowen Meeting 2.txt*
@@ -13,49 +12,55 @@
 
 ***
 ## Apr 2025 - Mar 2026
+(= Added to CV, == added to Teaching Dossier)
 * Papers:
-	* Planned: course-planner journal, 2x AI grader, parallel courseware, AI course advising, gender, disparity, others with Mostafa, CV Workshop (Kyra), 
-	* accepted: 
-		* Egypt Conference Mahmoud (IEEE IMSA indexed in scopus and IEEE)
-		* CASCON? 
-		* LearnCoding ETRD journal accepted (had to do major revision which took significant amount of work)
-		* CASCON (Ahmad AI Grading)
+	* **Planned Soon**: course-planner journal, 2x AI grader, parallel courseware, AI course advising, gender, disparity, others with Mostafa, CV Workshop (Kyra), 
+	* **Accepted**: 
+		* =Egypt Conference Mahmoud (IEEE IMSA indexed in scopus and IEEE)
+		* =LearnCoding ETRD journal accepted (had to do major revision which took significant amount of work)
+		* =CASCON (Ahmad AI Grading)
 * Awards: 
-	* Teaching excllnece nomination, and win (insha'a Allah) 
+	* Teaching excellence nomination, and win (insha'a Allah)
+	* USRA (Saad) + IURA(??)
 * Students
-	* MSc student: Mahmoud
-	* x DS + y Honours + z Volunteers
+	* =MSc student: Mahmoud
+	* = x DS + y Honours + z Volunteers
 		* talk about their PROJECTS!!!!!  
-	* URAs: Anand/Ariq (Makerspace May - Sep 2025)
+	* =URAs: Anand/Ariq (Makerspace May - Sep 2025)
 	* Volunteers (Dhairya, Amaan, ...)
 * Funding:
-	* Mitacs BSI (for Mahomud) (+15)
-	* ALT-2040?
+	* =Mitacs BSI (for Mahomud) (+15)
+	* =ALT-2040 (insha'a Allah)
+	* Work Study (insha'a Allah)
 	- ? EL Travel Grant
 	- ? CMPS support
 	- ? 1000 SoTL?
-	- 3500 Assoc Head Funds
+	- =3500 Assoc Head Funds
 
 * Projects
-	* EduAI framework + related preojects
-	* Several Edu AI tools (Questoin generator, etc.)
+	* =EduAI framework + related preojects
+	* =Several Edu AI tools (Questoin generator, etc.)
+	* =Makerspace --> this is important
 * Technologies
 	* Eclipse Extension Like Python Tutor (Ethan Godden)??
-	* NuTeach 
+	* =NuTeach 
 		* integrated in canvas
-		* removed vpn (worked with IT; implemented security/privacy UBC policies)
-	* LearnCoding 
+		* removed vpn (worked with IT; implemented) ??security/privacy UBC policies
+	* =LearnCoding 
 		* removed vpn (worked with IT; implemented security/privacy UBC policies)
 		- open to world (ORE??)
 		- used by others (okanagan college? uofc? uoft? etc)
 		- updated UI to work on mobile phones (responsive CSS)
 	* 
-* OER (Open Ed Resource): LearnCoding, NuTeach, Course material 
+* =OER (Open Ed Resource): LearnCoding, NuTeach, Course material 
 	* LC is open now to world
 	* NuTeach is integrated in Canvas
-* ICPC
+* =ICPC
 	* our UBCO team came 1st in BC site and 2nd in the whole Pacific Northwest region wining 1 gold and 1 silver medal and D2 Champions title.
 		* (overall, we won several gold,silver,and bronze - Anand, who organized ICPC for 3 years, in 2025 said: " I secured funding for ICPC for four consecutive years and led teams that collectively won 1 gold, 1 silver, and 2 bronze medals, helping UBCO place 2nd as Regional Champions in the ICPC Pacific Northwest region.")
+* SkyTrac Hackathon - I chaired a committee to send our best 5 students to participate in this event which involves $15K cash prize and potential hiring - we had very tight timeline (8 days) to select students. See more details in EL\Hackathon SkyTrac
+* Reviewer
+	* EDTR
 ## Apr 2024 - Mar 2025
 <font color="#00b0f0">	 = in CV, == in Teaching Dossier, * in AAR report</font>
 * = **SoTL Spotlight**: featured in [SoTL spotlight](https://ctl.ok.ubc.ca/scholarship/sotl/)
