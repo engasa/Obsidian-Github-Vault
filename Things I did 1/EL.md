@@ -62,7 +62,8 @@
 	- I chaired a committee to send our best 5 students to participate in this event which involves $15K cash prize and potential hiring - we had very tight timeline (8 days) to select students. See more details in EL\Hackathon SkyTrac
 	- took several hours, probably 5? (2 hrs prep/criteria definition/process design/meetings with student Om Mistry/etc + qualtrics form generation + meetings)
 * Reviewer
-	* EDTR
+	* Paper for EDTR
+	* Grant proposals for Qatar Research, Development and Innovation (QRDI) Council 
 ## Apr 2024 - Mar 2025
 <font color="#00b0f0">	 = in CV, == in Teaching Dossier, * in AAR report</font>
 * = **SoTL Spotlight**: featured in [SoTL spotlight](https://ctl.ok.ubc.ca/scholarship/sotl/)
