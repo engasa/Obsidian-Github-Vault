@@ -5,11 +5,18 @@
 	*whenever I say see Details (n), I mean in the file "Things I did - EL_Details.txt"*
 	*** means added to CV*
 	*~~ means added to Teaching Dossier*
-
+## Apr 2025 - Mar 2026
+(= Added to CV, == added to Teaching Dossier)
+* Papers:
+	* ???
+* Technologies
+	* TAMS - others use it? 
+	* Eclipse Extension Like Python Tutor (Ethan Godden)??
+* * Awards: 
+	* = URA (Saad) - accepted ($12,000)
+	* = IURA(Ahab) - accepted ($12,000)
 * AR Course (COSC111) ?
 * NuTeach integration with canvas + startup?
-***TODO:** You want to present all projects under  TWO or THREE Themes (areas) where you dig deep!!!! instead of having a salad of projects, you have focused heavily in one or two areas and improved it) -- e.g. see your Teaching Fellowship application.*
-
 ***
 ## Apr 2025 - Mar 2026
 (= Added to CV, == added to Teaching Dossier)
@@ -19,30 +26,34 @@
 		* =Egypt Conference Mahmoud (IEEE IMSA indexed in scopus and IEEE)
 		* =LearnCoding ETRD journal accepted (had to do major revision which took significant amount of work)
 		* =CASCON (Ahmad AI Grading)
+		* = two WCCCE papers (Ronit + Stavan)
 * Awards: 
-	* Teaching excellence nomination, and win (insha'a Allah)
-	* USRA (Saad) + IURA(??)
+	* = Teaching excellence nomination, and win (insha'a Allah)
+	
 * Students
 	* =MSc student: Mahmoud
 	* = x DS + y Honours + z Volunteers
 		* talk about their PROJECTS!!!!!  
-	* =URAs: Anand/Ariq (Makerspace May - Sep 2025)
+	* =Undergrad RAs: Anand/Ariq (Makerspace May - Sep 2025)
 	* Volunteers (Dhairya, Amaan, ...)
 * Funding:
-	* =Mitacs BSI (for Mahomud) (+15)
-	* =ALT-2040 (insha'a Allah)
-	* Work Study (insha'a Allah)
+	* =Mitacs BSI (for Mahmoud) (+$15,000)
+	* =ALT-2040 - ($25,000) - I am PI
+	* =Work Study - ($18,612 if only 80%; or 23,276 if 100%   )
+	* =Mostafa's  applications (I am collaborator )
+		* =ALT-2040 ($15,000) - I am co-applicant (or collaborator)
+		* =Work Study (same $) - I am co-supervisor 
 	- ? EL Travel Grant
 	- ? CMPS support
-	- ? 1000 SoTL?
-	- =3500 Assoc Head Funds
+	- ? $1,000 SoTL?
+	- =$3,500 Assoc Head Funds
 
 * Projects
 	* =EduAI framework + related preojects
 	* =Several Edu AI tools (Questoin generator, etc.)
 	* =Makerspace --> this is important
 * Technologies
-	* Eclipse Extension Like Python Tutor (Ethan Godden)??
+
 	* =NuTeach 
 		* integrated in canvas
 		* removed vpn (worked with IT; implemented) ??security/privacy UBC policies
@@ -58,11 +69,11 @@
 * =ICPC
 	* our UBCO team came 1st in BC site and 2nd in the whole Pacific Northwest region wining 1 gold and 1 silver medal and D2 Champions title.
 		* (overall, we won several gold,silver,and bronze - Anand, who organized ICPC for 3 years, in 2025 said: " I secured funding for ICPC for four consecutive years and led teams that collectively won 1 gold, 1 silver, and 2 bronze medals, helping UBCO place 2nd as Regional Champions in the ICPC Pacific Northwest region.")
-* SkyTrac Hackathon 
-	- I chaired a committee to send our best 5 students to participate in this event which involves $15K cash prize and potential hiring - we had very tight timeline (8 days) to select students. See more details in EL\Hackathon SkyTrac
+* = SkyTrac Hackathon 
+	- = I chaired a committee to send our best 5 students to participate in this event which involves $15K cash prize and potential hiring - we had very tight timeline (8 days) to select students. See more details in EL\Hackathon SkyTrac
 	- took several hours, probably 5? (2 hrs prep/criteria definition/process design/meetings with student Om Mistry/etc + qualtrics form generation + meetings)
-* Reviewer
-	* Paper for EDTR
+* = Reviewer
+	* = Paper for EDTR
 	* Grant proposals for Qatar Research, Development and Innovation (QRDI) Council 
 ## Apr 2024 - Mar 2025
 <font color="#00b0f0">	 = in CV, == in Teaching Dossier, * in AAR report</font>
