@@ -1,5 +1,9 @@
 ***
+## May 2026 - Apr 2027
 
+- Merit/PSA committee (6-8 hours)
+- Associate Head (see meetings.txt, previous year's service, etc)
+	- see 2025/26 folder and subfolders for duties
 ## Sep 2025 - Apr 2026
 
 - = Associate Head (see meetings.txt, previous year's service, etc)
