@@ -8,6 +8,8 @@
 ## Apr 2026 - Mar 2027
 (= Added to CV, == added to Teaching Dossier)
 * Papers:
+	* Kaan: accepted in ICPEC (full paper; peer reviewed; he is presenting) 
+	* Khizar accepted in IEEE (or ACM?) CompSysTech (full paper, peer reviewed; he is presenting)
 	* ???
 * Technologies
 	* TAMS - others use it? 
@@ -17,6 +19,15 @@
 	* = IURA(Ahab) - accepted ($12,000)
 * AR Course (COSC111) ?
 * NuTeach integration with canvas + startup?
+* Student Supervision
+	* MSc Committee member: Ramon's ( Bridgette Hunt)
+	* MSc Committee member: Fatemeh's (Mahdieh Sadat Benis)
+	* sponsered (co-sponsered?) capstone project (Sama Mostafa)
+* Reviewer
+	* QRDI 3 + 3???? taxes or EL? 
+	* EDTR 1
+	* SIGSCE 1
+* Thank a Prof recognition (May 19, 2026)
 ***
 ## Apr 2025 - Mar 2026
 (= Added to CV, == added to Teaching Dossier)
