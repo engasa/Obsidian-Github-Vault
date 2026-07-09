@@ -7,7 +7,7 @@
 	*~~ means added to Teaching Dossier*
 ## Apr 2025 - Mar 2026
 (= Added to CV, == added to Teaching Dossier)
-* Papers:
+* Papers: 
 	* ???
 * Technologies
 	* TAMS - others use it? 
