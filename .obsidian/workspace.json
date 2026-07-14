@@ -39,8 +39,7 @@
                   "title": "EL Details"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "2a7dbf021698a455",
@@ -261,12 +260,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ea3cee4815ff5d71",
+  "active": "d70f2bc68203808d",
   "lastOpenFiles": [
+    "Things I did 1/EL.md",
+    "Things I did 1/Service.md",
     "TODOs 1/TODO.md",
     "Things I did 1/Service Details.md",
-    "Things I did 1/Service.md",
-    "Things I did 1/EL Details.md",
-    "Things I did 1/EL.md"
+    "Things I did 1/EL Details.md"
   ]
 }

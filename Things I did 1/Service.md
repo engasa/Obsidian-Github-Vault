@@ -5,7 +5,8 @@
 - Acting Head while Ramon is away (2 weeks in June)
 - COSC 111 challenge exam
 - Tenure and Promotion Committee (July-Sep 2026): review One applicant, suggest external reviewers, evaluate... first meeting in July (see service/tenure)
-- TA Allocation 
+- TA Allocation for CS and other depts (tool, meetings with diff depts, doing it for CS W2 2026, etc - chad completed W1 2026 )
+- courseplanner? 
 
 ## Sep 2025 - Apr 2026
 

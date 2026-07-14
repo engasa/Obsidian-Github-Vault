@@ -12,11 +12,15 @@
 * Technologies
 	* TAMS - others use it? 
 	* Eclipse Extension Like Python Tutor (Ethan Godden)??
+	* CoursePlanner
+	* LearnCoding (now OER without subscription, extended extensively to manage workflows, pushed to other univ? )
 * * Awards: 
 	* = URA (Saad) - accepted ($12,000)
 	* = IURA(Ahab) - accepted ($12,000)
 * AR Course (COSC111) ?
 * NuTeach integration with canvas + startup?
+* Letter of Appreciation from CTL (Email from barbara July 10)
+* 
 ***
 ## Apr 2025 - Mar 2026
 (= Added to CV, == added to Teaching Dossier)
