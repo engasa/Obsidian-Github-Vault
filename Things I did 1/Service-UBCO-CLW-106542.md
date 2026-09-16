@@ -4,9 +4,6 @@
 - Merit/PSA committee (6-8 hours)
 - Associate Head (see meetings.txt, previous year's service, etc)
 	- see 2025/26 folder and subfolders for duties
-- Tenure/Promotion committee 
-- COSC 111 Challenge Exam (this is not a trivial just-ceate-exam thing; i had several meetings with leadership + surveyed students + determined eligibility and criteria + prepared sample qeustions + deterrent + managed exam registration (qualtrics) + ran exam and marked + managed student qeustions etc )
-- see other items in AH meetings.txt 
 ## Sep 2025 - Apr 2026
 
 - = Associate Head (see meetings.txt, previous year's service, etc)

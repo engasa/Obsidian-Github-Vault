@@ -8,8 +8,13 @@
 ## Apr 2026 - Mar 2027
 (= Added to CV, == added to Teaching Dossier)
 * Papers:
-	* Kaan: accepted in ICPEC (full paper; peer reviewed; he is presenting) 
-	* Khizar accepted in IEEE (or ACM?) CompSysTech (full paper, peer reviewed; he is presenting)
+	* 1 paper in ICPEC (Kaan: full paper; peer reviewed; he is presenting) 
+	* 1 paper in CompSysTech (Khizar; IEEE or ACM?, full paper, peer reviewed; he is presenting)
+	* 4 papers in ICL (Saad, Shuyu, Shlok, Priyansh, Springer, full paper, peer reviewed; he is presenting)
+	* 2 papers accepted in SIGSCE-v (Stavan + Shlok)
+	* submitted 
+		* 1 journal (CoursePlanner) to "Computer Applications in Engineering Education" after being rejected in Next Research due to lack of reviewers
+		* 1 journal (Mahmoud's) to Artificial Intelligence Science and Engineering (Dual-Pool MocoRank) 
 	* ???
 * Technologies
 	* TAMS - others use it? 
@@ -23,11 +28,15 @@
 	* MSc Committee member: Ramon's ( Bridgette Hunt)
 	* MSc Committee member: Fatemeh's (Mahdieh Sadat Benis)
 	* sponsered (co-sponsered?) capstone project (Sama Mostafa)
+	* graduated MSc Mahmoud
 * Reviewer
 	* QRDI 3 + 3???? taxes or EL? 
 	* EDTR 1
 	* SIGSCE 1
 * Thank a Prof recognition (May 19, 2026)
+* Featured on UBC EL website (provided a story) - see email from Carolyn  -> 
+	* https://science.ok.ubc.ca/2026/08/19/how-a-new-learning-platform-supports-coding-education-expanding-access-to-programming-and-ai-learning-through-open-course-aware-platforms/
+* EL/awards/Teaching Excellence/media/EL story  
 ***
 ## Apr 2025 - Mar 2026
 (= Added to CV, == added to Teaching Dossier)
