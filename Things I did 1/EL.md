@@ -1,4 +1,4 @@
-***See:-***
+***See::-***
 - *Collective agreement (Sect. 4.04) and SAC (Sect. ??) on what EL involves.  e.g. curriculum renewal, course design, new assessment models, ..*
 - *Bowen Meeting 2.txt*
 ***Notes**:* 
@@ -19,11 +19,14 @@
 * Technologies
 	* TAMS - others use it? 
 	* Eclipse Extension Like Python Tutor (Ethan Godden)??
+	* CoursePlanner
+	* LearnCoding (now OER without subscription, extended extensively to manage workflows, pushed to other univ? )
 * * Awards: 
 	* = URA (Saad) - accepted ($12,000)
 	* = IURA(Ahab) - accepted ($12,000)
 * AR Course (COSC111) ?
 * NuTeach integration with canvas + startup?
+<<<<<<< HEAD
 * Student Supervision
 	* MSc Committee member: Ramon's ( Bridgette Hunt)
 	* MSc Committee member: Fatemeh's (Mahdieh Sadat Benis)
@@ -37,6 +40,10 @@
 * Featured on UBC EL website (provided a story) - see email from Carolyn  -> 
 	* https://science.ok.ubc.ca/2026/08/19/how-a-new-learning-platform-supports-coding-education-expanding-access-to-programming-and-ai-learning-through-open-course-aware-platforms/
 * EL/awards/Teaching Excellence/media/EL story  
+=======
+* Letter of Appreciation from CTL (Email from barbara July 10)
+* 
+>>>>>>> origin/main
 ***
 ## Apr 2025 - Mar 2026
 (= Added to CV, == added to Teaching Dossier)
