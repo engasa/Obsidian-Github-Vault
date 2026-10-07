@@ -11,11 +11,16 @@
 	* 1 paper in ICPEC (Kaan: full paper; peer reviewed; he is presenting) 
 	* 1 paper in CompSysTech (Khizar; IEEE or ACM?, full paper, peer reviewed; he is presenting)
 	* 4 papers in ICL (Saad, Shuyu, Shlok, Priyansh, Springer, full paper, peer reviewed; he is presenting)
-	* 2 papers accepted in SIGSCE-v (Stavan + Shlok)
+	* N papers in IEEE TOK-CSES (Ahab, ?)
+	* 2 papers in top CS conf: SIGSCE-v (Stavan + Shlok)
+	* 1 journal (Mahmoud's) to Artificial Intelligence Science and Engineering (Dual-Pool MocoRank) 
 	* submitted 
 		* 1 journal (CoursePlanner) to "Computer Applications in Engineering Education" after being rejected in Next Research due to lack of reviewers
-		* 1 journal (Mahmoud's) to Artificial Intelligence Science and Engineering (Dual-Pool MocoRank) 
+		* 1 journal (TAMS) to Scheduling
 	* ???
+* work for ADHD 
+	* AI forADHD URA + research + paper
+	* teaching methods (email from ADHD student)
 * Technologies
 	* TAMS - others use it? 
 	* Eclipse Extension Like Python Tutor (Ethan Godden)??
@@ -25,6 +30,7 @@
 * * Awards: 
 	* = URA (Saad) - accepted ($12,000)
 	* = IURA(Ahab) - accepted ($12,000)
+	* Killam? 
 * AR Course (COSC111) ?
 * NuTeach integration with canvas + startup?
 <<<<<<< HEAD
@@ -43,6 +49,7 @@
 * EL/awards/Teaching Excellence/media/EL story  
 =======
 * Letter of Appreciation from CTL (Email from barbara July 10)
+* Letter of appreciation from ADHD student
 * 
 >>>>>>> origin/main
 ***
