@@ -11,7 +11,7 @@
 	* 1 paper in ICPEC (Kaan: full paper; peer reviewed; he is presenting) 
 	* 1 paper in CompSysTech (Khizar; IEEE or ACM?, full paper, peer reviewed; he is presenting)
 	* 4 papers in ICL (Saad, Shuyu, Shlok, Priyansh, Springer, full paper, peer reviewed; he is presenting)
-	* N papers in IEEE TOK-CSES (Ahab, ?)
+	* N papers in IEEE TOK-CSES (Ahab, AhmadMemon, ?)
 	* 2 papers in top CS conf: SIGSCE-v (Stavan + Shlok)
 	* 1 journal (Mahmoud's) to Artificial Intelligence Science and Engineering (Dual-Pool MocoRank) 
 	* submitted 
