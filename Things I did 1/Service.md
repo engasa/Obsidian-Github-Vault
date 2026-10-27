@@ -3,6 +3,7 @@
 - Associate Head (see meetings.txt, previous year's service, etc)
 - Tenure and Promotion Committee 
 	- (July-Sep 2026): review One applicant, suggest external reviewers, evaluate... first meeting in July (see service/tenure)
+- Articulation requests, helping  Fatemeh who couldn't do them due to commitments/other issuse. (from Aug to Nov requests) 
 - TA Allocation for CS and other depts 
 	- (tool, meetings with diff depts, doing it for CS W2 2026, etc - chad completed W1 2026 )
 - Platforms development (huge effort) 
@@ -13,7 +14,8 @@
 	- see 2025/26 folder and subfolders for duties
 	- Acting Head while Ramon is away (2 weeks in June)
 - COSC 111 Challenge Exam 
-	- (this is not a trivial just-ceate-exam thing; i had several meetings with leadership + surveyed students + determined eligibility and criteria + prepared sample qeustions + deterrent + managed exam registration (qualtrics) + ran exam and marked + managed student qeustions etc )
+	- (this is not a trivial just-create-exam thing; i had several meetings with leadership + surveyed students + determined eligibility and criteria + prepared sample qeustions + deterrent + managed exam registration (qualtrics) + ran exam and marked + managed student questions etc )
+- CSCU advisor (almost weekly meetings)
 - see other items in AH meetings.txt 
 ## Sep 2025 - Apr 2026
 

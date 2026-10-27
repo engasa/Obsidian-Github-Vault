@@ -24,8 +24,10 @@
 * Technologies
 	* TAMS - others use it? 
 	* Eclipse Extension Like Python Tutor (Ethan Godden)??
-	* CoursePlanner
-	* LearnCoding (now OER without subscription, extended extensively to manage workflows, pushed to other univ? )
+	* CoursePlanner --> see admin dashboard for stats
+	* LearnCoding 
+		* now OER without subscription, extended extensively to manage workflows, pushed to other univ? )
+		* --> see admin dashboard for stats
 	* Makerspace Membership (from Aileen: Things have been going well with the membership system, some little bumps along the way but the main features are live and functioning and we have fully switched over the membership now. We have continued to work with Ariq for any bug fixes/tweaks we have run into and he has continued to be very good to work with.)
 * * Awards: 
 	* = URA (Saad) - accepted ($12,000)
