@@ -1,8 +1,5 @@
 # Now
 - [ ] Papers
-	- [ ] ***Parallel Courseware*** Journal or Conference? or both?
-	- [ ] TA allocation - submit to one of 2 which accepted your work
-	- [ ] DS Papers (Khizar, Ali, Ahamad + Suyash) + Satanshu + Class rewards
 	- [ ] Gender disparity - finish paper.
 	- [ ] LearnCoding paper revision (Sep 2025)
 	- [ ] Proposal APSC177: **Transfer programming knowledge** - to Richert
@@ -17,16 +14,11 @@
 	- [ ] fفلوس سجي المدينة +
 	- [ ] car شراء عربية +
 	- [ ] garage shelves, شطافة و الجراج
-- [ ] Grants Expiring Soon (Assoc Head: Jun 30 2025, Mitacs: Mar 2026)
+- [ ] Grants Expiring Soon
 - [ ] emails
-- [x] Class rewards gift-card draw
 - [ ] webdev course
 - [ ] EduAI Research Group
-	- [ ] meet with students, profs,...
-	- [ ] start volunteer work
-	- [ ] Website
 - [ ] Personal: Psych
-- [x] Conference Presentations: Ensure CCECE slides are ready.
 - [ ] NuTeach - major featrues/get feedback from profs and students/etc
 - [ ] Travel Grants  
 - [ ] Update your CV (use AI for recommendations)

@@ -8,7 +8,9 @@
 	- (tool, meetings with diff depts, doing it for CS W2 2026, etc - chad completed W1 2026 )
 - Platforms development (huge effort) 
 	- courseplanner, TAMS, leanrcoding (revamped with course ownership, grading, etc)
-
+* connected 3 systems with UBC systems
+	* CoursePlanner + TAMS -> CWL login
+	* LearnCoding -> Canvas
 - Merit/PSA committee (6-8 hours)
 - Associate Head (see meetings.txt, previous year's service, etc)
 	- see 2025/26 folder and subfolders for duties

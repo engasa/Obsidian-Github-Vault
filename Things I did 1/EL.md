@@ -8,52 +8,62 @@
 ## Apr 2026 - Mar 2027
 (= Added to CV, == added to Teaching Dossier)
 * Papers:
-	* 1 paper in ICPEC (Kaan: full paper; peer reviewed; he is presenting) 
-	* 1 paper in CompSysTech (Khizar; IEEE or ACM?, full paper, peer reviewed; he is presenting)
-	* 4 papers in ICL (Saad, Shuyu, Shlok, Priyansh, Springer, full paper, peer reviewed; he is presenting)
-	* N papers in IEEE TOK-CSES (Ahab, AhmadMemon, ?)
-	* 2 papers in top CS conf: SIGSCE-v (Stavan + Shlok)
-	* 1 journal (Mahmoud's) to Artificial Intelligence Science and Engineering (Dual-Pool MocoRank) 
+	* = 1 paper in ICPEC (Kaan: full paper; peer reviewed; he is presenting) 
+	* = 1 paper in CompSysTech (Khizar; IEEE or ACM?, full paper, peer reviewed; he is presenting)
+	* = 4 papers in ICL (Saad, Shuyu, Shlok, Priyansh, Springer, full paper, peer reviewed; he is presenting)
+	* = 2 papers in IEEE TOK-CSE (Ahab, AhmadMemon, ?)
+	* = 2 papers in top CS conf: SIGSCE-v (Stavan + Shlok)
+	* = 1 journal (Mahmoud's) to Artificial Intelligence Science and Engineering (Dual-Pool MocoRank) 
 	* submitted 
-		* 1 journal (CoursePlanner) to "Computer Applications in Engineering Education" after being rejected in Next Research due to lack of reviewers
-		* 1 journal (TAMS) to Scheduling
+		* = 1 journal (CoursePlanner) to "Computer Applications in Engineering Education" after being rejected in Next Research due to lack of reviewers
+		* = 1 journal (TAMS) to Scheduling
 	* ???
 * work for ADHD 
-	* AI forADHD URA + research + paper
-	* teaching methods (email from ADHD student)
+	* AI for ADHD URA + research + paper (Ahab: TOK-CSE)
+	* Letter of appreciation from ADHD student teaching methods
 * Technologies
-	* TAMS - others use it? 
-	* Eclipse Extension Like Python Tutor (Ethan Godden)??
-	* CoursePlanner --> see admin dashboard for stats
+	* TAMS 
+		- revamped 
+		- pilot in CS department 
+		- auto-allocation using optimization implemented based on research papers submitted for publishing in journal paper. 
+		- TAMS streamlines the TA allocation process at UBCO, guiding each role through its core tasks. Administrators define terms and discipline scopes; coordinators create sessions and manage assignments; instructors submit TA preferences and post-term reviews; students apply for positions, keep their schedules current, and handle post-acceptance changes. The system enforces strong password security, offers secure account recovery, syncs course data from Workday, checks schedule conflicts automatically, and records audit, security, and system events for oversight. Interactive help provides role-specific guidance on workflows, permissions, and post-accept processes.
+	* Visualizing Code execution -> created Eclipse Extension (Like Python Tutor but integrated in Eclipse for CS1 education; implemented by recent student Ethan Godden) - github link: {will give link}
+	* CoursePlanner 
+		* completed implementation and released for UBC. publicized by student unions and professors. 
+		* new features: course history (used to predict course offerings), grade history (helps students expectations), seat alerts (alert subscribed students when a seat opens in a section they are interested in; )  
+		* A visual, web-based degree-planning platform. Students drag and drop courses across planned years and terms, see missing pre- and co-requisites immediately, and receive soft off-term warnings with recency-weighted offering forecasts. Multiple plans can be explored and saved through what-if analysis. Once a term is ready, its courses export to the Term Scheduler, where a visual section picker, seat-alert tracking, auto-optimized timetables, and side-by-side comparison make building a conflict-free week straightforward. The Course Insights pane adds prerequisite graphs, historical offering heatmaps, and multi-year grade-distribution charts, so decisions are informed before registration in Workday.
+		* TODO: get stats from admin dashboard for stats ( number of users, etc)
 	* LearnCoding 
 		* now OER without subscription, extended extensively to manage workflows, pushed to other univ? )
+		* Integrated into Canvas (LTI for grades and assignments)
 		* --> see admin dashboard for stats
 	* Makerspace Membership (from Aileen: Things have been going well with the membership system, some little bumps along the way but the main features are live and functioning and we have fully switched over the membership now. We have continued to work with Ariq for any bug fixes/tweaks we have run into and he has continued to be very good to work with.)
+	* TODO: get numbers from Aileen
 * * Awards: 
 	* = URA (Saad) - accepted ($12,000)
 	* = IURA(Ahab) - accepted ($12,000)
-	* Killam? 
-* AR Course (COSC111) ?
-* NuTeach integration with canvas + startup?
-<<<<<<< HEAD
+	* Killam - in progress
+* NuTeach integration with canvas 
+	* ongoing (integrated into canvas)
+	* deployed in term2 (Jan 2027)
 * Student Supervision
-	* MSc Committee member: Ramon's ( Bridgette Hunt)
-	* MSc Committee member: Fatemeh's (Mahdieh Sadat Benis)
-	* sponsered (co-sponsered?) capstone project (Sama Mostafa)
-	* graduated MSc Mahmoud
+	* new MSc Committee member: Ramon's ( Bridgette Hunt)
+	* new MSc Committee member: Fatemeh's (Mahdieh Sadat Benis)
+	* = graduated MSc Mahmoud
+	* = took on a new PhD student
+	* N Honours + Directed Studies (talk about them) 
 * Reviewer
-	* QRDI 3 + 3???? taxes or EL? 
-	* EDTR 1
-	* SIGSCE 1
-* Thank a Prof recognition (May 19, 2026)
+	* have been a reviewer for QRDI (Qatar Research, Development and Innovation) - 6 gants related to AI in Education  
+	* reviewer for 1 EDTR journal
+	* reviewer for 3 SIGSCE conferences
+* Thank a Prof program recognition (May 19, 2026): 
+	* "His way of teaching is so good, and he keeps his students engaged throughout the class. I really enjoyed studying from him and hope to study more subjects with him in future. Great professor!"
 * Featured on UBC EL website (provided a story) - see email from Carolyn  -> 
 	* https://science.ok.ubc.ca/2026/08/19/how-a-new-learning-platform-supports-coding-education-expanding-access-to-programming-and-ai-learning-through-open-course-aware-platforms/
-* EL/awards/Teaching Excellence/media/EL story  
-=======
+	* EL/awards/Teaching Excellence/media/EL story  
 * Letter of Appreciation from CTL (Email from barbara July 10)
-* Letter of appreciation from ADHD student
 * 
->>>>>>> origin/main
+* AR Course (COSC111) ?
 ***
 ## Apr 2025 - Mar 2026
 (= Added to CV, == added to Teaching Dossier)
